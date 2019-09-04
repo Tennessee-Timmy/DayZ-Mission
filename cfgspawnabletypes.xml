@@ -2922,12 +2922,6 @@
 		<attachments chance="100.00">
 			<item name="HatchbackTrunk" chance="100.0" />
 		</attachments>
-		<attachments chance="100.00">
-			<item name="Coolant" chance="100.0" />
-		</attachments>
-		<attachments chance="100.00">
-			<item name="Fuel" chance="100.0" />
-		</attachments>
 	</type>
 	
 	<type name="CivilianSedan">
