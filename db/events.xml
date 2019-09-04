@@ -189,8 +189,8 @@
         <limit>child</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="26" min="2" type="Animal_CanisLupus_Grey"/>
-            <child lootmax="0" lootmin="0" max="24" min="0" type="Animal_CanisLupus_White"/>
+            <child lootmax="5" lootmin="0" max="26" min="2" type="Animal_CanisLupus_Grey"/>
+            <child lootmax="5" lootmin="0" max="24" min="0" type="Animal_CanisLupus_White"/>
         </children>
     </event>
     <event name="InfectedArmy">
@@ -208,13 +208,13 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="35" lootmin="0" max="0" min="30" type="ZmbM_PatrolNormal_Autumn"/>
-            <child lootmax="35" lootmin="0" max="0" min="10" type="ZmbM_PatrolNormal_Flat"/>
-            <child lootmax="35" lootmin="0" max="0" min="20" type="ZmbM_PatrolNormal_PautRev"/>
-            <child lootmax="35" lootmin="0" max="0" min="10" type="ZmbM_PatrolNormal_Summer"/>
-            <child lootmax="35" lootmin="0" max="0" min="20" type="ZmbM_SoldierNormal"/>
-            <child lootmax="35" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_normal_Desert"/>
-            <child lootmax="35" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_normal_Woodland"/>
+            <child lootmax="15" lootmin="0" max="0" min="30" type="ZmbM_PatrolNormal_Autumn"/>
+            <child lootmax="15" lootmin="0" max="0" min="10" type="ZmbM_PatrolNormal_Flat"/>
+            <child lootmax="15" lootmin="0" max="0" min="20" type="ZmbM_PatrolNormal_PautRev"/>
+            <child lootmax="15" lootmin="0" max="0" min="10" type="ZmbM_PatrolNormal_Summer"/>
+            <child lootmax="15" lootmin="0" max="0" min="20" type="ZmbM_SoldierNormal"/>
+            <child lootmax="15" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_normal_Desert"/>
+            <child lootmax="15" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_normal_Woodland"/>
         </children>
     </event>
     <event name="InfectedCity">
@@ -232,68 +232,68 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_BlueCollarFat_White"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_CitizenANormal_Beige"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_CitizenANormal_Blue"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_CitizenANormal_Brown"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_CitizenBSkinny"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_Clerk_Normal_Blue"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_Clerk_Normal_Green"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_Clerk_Normal_Red"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_Clerk_Normal_White"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_JournalistNormal_Blue"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_JournalistNormal_Green"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_JournalistNormal_Red"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_JournalistNormal_White"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_ShortSkirt_beige"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_ShortSkirt_black"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_ShortSkirt_brown"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_ShortSkirt_checks"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_ShortSkirt_green"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_ShortSkirt_grey"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_ShortSkirt_red"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_ShortSkirt_stripes"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_ShortSkirt_white"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_ShortSkirt_yellow"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_SkaterYoung_Brown"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_SkaterYoung_Striped"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_SkaterYoung_Violet"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_SurvivorNormal_Blue"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_SurvivorNormal_Orange"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_SurvivorNormal_Red"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbF_SurvivorNormal_White"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_CitizenASkinny_Blue"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_CitizenASkinny_Brown"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_CitizenASkinny_Grey"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_CitizenASkinny_Red"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_CitizenBFat_Blue"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_CitizenBFat_Green"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_CitizenBFat_Red"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_ClerkFat_Brown"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_ClerkFat_Grey"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_ClerkFat_Khaki"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_ClerkFat_White"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_CommercialPilotOld_Blue"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_CommercialPilotOld_Brown"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_CommercialPilotOld_Grey"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_CommercialPilotOld_Olive"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_Jacket_beige"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_Jacket_black"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_Jacket_blue"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_Jacket_bluechecks"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_Jacket_brown"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_Jacket_greenchecks"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_Jacket_grey"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_Jacket_khaki"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_Jacket_magenta"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_Jacket_stripes"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_JournalistSkinny"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_MotobikerFat_Beige"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_MotobikerFat_Black"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_SkaterYoung_Blue"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_SkaterYoung_Brown"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_SkaterYoung_Green"/>
-            <child lootmax="25" lootmin="0" max="0" min="5" type="ZmbM_SkaterYoung_Grey"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_BlueCollarFat_White"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_CitizenANormal_Beige"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_CitizenANormal_Blue"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_CitizenANormal_Brown"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_CitizenBSkinny"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_Clerk_Normal_Blue"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_Clerk_Normal_Green"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_Clerk_Normal_Red"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_Clerk_Normal_White"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_JournalistNormal_Blue"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_JournalistNormal_Green"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_JournalistNormal_Red"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_JournalistNormal_White"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_ShortSkirt_beige"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_ShortSkirt_black"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_ShortSkirt_brown"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_ShortSkirt_checks"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_ShortSkirt_green"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_ShortSkirt_grey"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_ShortSkirt_red"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_ShortSkirt_stripes"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_ShortSkirt_white"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_ShortSkirt_yellow"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_SkaterYoung_Brown"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_SkaterYoung_Striped"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_SkaterYoung_Violet"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_SurvivorNormal_Blue"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_SurvivorNormal_Orange"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_SurvivorNormal_Red"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbF_SurvivorNormal_White"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_CitizenASkinny_Blue"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_CitizenASkinny_Brown"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_CitizenASkinny_Grey"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_CitizenASkinny_Red"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_CitizenBFat_Blue"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_CitizenBFat_Green"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_CitizenBFat_Red"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_ClerkFat_Brown"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_ClerkFat_Grey"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_ClerkFat_Khaki"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_ClerkFat_White"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_CommercialPilotOld_Blue"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_CommercialPilotOld_Brown"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_CommercialPilotOld_Grey"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_CommercialPilotOld_Olive"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_Jacket_beige"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_Jacket_black"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_Jacket_blue"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_Jacket_bluechecks"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_Jacket_brown"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_Jacket_greenchecks"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_Jacket_grey"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_Jacket_khaki"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_Jacket_magenta"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_Jacket_stripes"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_JournalistSkinny"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_MotobikerFat_Beige"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_MotobikerFat_Black"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_SkaterYoung_Blue"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_SkaterYoung_Brown"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_SkaterYoung_Green"/>
+            <child lootmax="10" lootmin="0" max="0" min="5" type="ZmbM_SkaterYoung_Grey"/>
         </children>
     </event>
     <event name="InfectedFirefighter">
@@ -493,38 +493,38 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="15" lootmin="0" max="0" min="6" type="ZmbF_JoggerSkinny_Blue"/>
-            <child lootmax="15" lootmin="0" max="0" min="6" type="ZmbF_JoggerSkinny_Brown"/>
-            <child lootmax="15" lootmin="0" max="0" min="6" type="ZmbF_JoggerSkinny_Green"/>
-            <child lootmax="15" lootmin="0" max="0" min="6" type="ZmbF_JoggerSkinny_Red"/>
-            <child lootmax="15" lootmin="0" max="0" min="5" type="ZmbF_MilkMaidOld_Beige"/>
-            <child lootmax="15" lootmin="0" max="0" min="5" type="ZmbF_MilkMaidOld_Black"/>
-            <child lootmax="15" lootmin="0" max="0" min="5" type="ZmbF_MilkMaidOld_Green"/>
-            <child lootmax="15" lootmin="0" max="0" min="5" type="ZmbF_MilkMaidOld_Grey"/>
-            <child lootmax="15" lootmin="0" max="0" min="5" type="ZmbF_VillagerOld_Blue"/>
-            <child lootmax="15" lootmin="0" max="0" min="5" type="ZmbF_VillagerOld_Green"/>
-            <child lootmax="15" lootmin="0" max="0" min="5" type="ZmbF_VillagerOld_Red"/>
-            <child lootmax="15" lootmin="0" max="0" min="5" type="ZmbF_VillagerOld_White"/>
-            <child lootmax="15" lootmin="0" max="0" min="6" type="ZmbM_FarmerFat_Beige"/>
-            <child lootmax="15" lootmin="0" max="0" min="6" type="ZmbM_FarmerFat_Blue"/>
-            <child lootmax="15" lootmin="0" max="0" min="6" type="ZmbM_FarmerFat_Brown"/>
-            <child lootmax="15" lootmin="0" max="0" min="6" type="ZmbM_FarmerFat_Green"/>
-            <child lootmax="15" lootmin="0" max="0" min="5" type="ZmbM_Jacket_beige"/>
-            <child lootmax="15" lootmin="0" max="0" min="5" type="ZmbM_Jacket_black"/>
-            <child lootmax="15" lootmin="0" max="0" min="5" type="ZmbM_Jacket_blue"/>
-            <child lootmax="15" lootmin="0" max="0" min="5" type="ZmbM_Jacket_bluechecks"/>
-            <child lootmax="15" lootmin="0" max="0" min="5" type="ZmbM_Jacket_brown"/>
-            <child lootmax="15" lootmin="0" max="0" min="5" type="ZmbM_Jacket_greenchecks"/>
-            <child lootmax="15" lootmin="0" max="0" min="5" type="ZmbM_Jacket_grey"/>
-            <child lootmax="15" lootmin="0" max="0" min="5" type="ZmbM_Jacket_khaki"/>
-            <child lootmax="15" lootmin="0" max="0" min="5" type="ZmbM_Jacket_magenta"/>
-            <child lootmax="15" lootmin="0" max="0" min="5" type="ZmbM_Jacket_stripes"/>
-            <child lootmax="15" lootmin="0" max="0" min="6" type="ZmbM_JoggerSkinny_Blue"/>
-            <child lootmax="15" lootmin="0" max="0" min="6" type="ZmbM_JoggerSkinny_Green"/>
-            <child lootmax="15" lootmin="0" max="0" min="6" type="ZmbM_JoggerSkinny_Red"/>
-            <child lootmax="15" lootmin="0" max="0" min="8" type="ZmbM_VillagerOld_Blue"/>
-            <child lootmax="15" lootmin="0" max="0" min="8" type="ZmbM_VillagerOld_Green"/>
-            <child lootmax="15" lootmin="0" max="0" min="8" type="ZmbM_VillagerOld_White"/>
+            <child lootmax="7" lootmin="0" max="0" min="6" type="ZmbF_JoggerSkinny_Blue"/>
+            <child lootmax="7" lootmin="0" max="0" min="6" type="ZmbF_JoggerSkinny_Brown"/>
+            <child lootmax="7" lootmin="0" max="0" min="6" type="ZmbF_JoggerSkinny_Green"/>
+            <child lootmax="7" lootmin="0" max="0" min="6" type="ZmbF_JoggerSkinny_Red"/>
+            <child lootmax="7" lootmin="0" max="0" min="5" type="ZmbF_MilkMaidOld_Beige"/>
+            <child lootmax="7" lootmin="0" max="0" min="5" type="ZmbF_MilkMaidOld_Black"/>
+            <child lootmax="7" lootmin="0" max="0" min="5" type="ZmbF_MilkMaidOld_Green"/>
+            <child lootmax="7" lootmin="0" max="0" min="5" type="ZmbF_MilkMaidOld_Grey"/>
+            <child lootmax="7" lootmin="0" max="0" min="5" type="ZmbF_VillagerOld_Blue"/>
+            <child lootmax="7" lootmin="0" max="0" min="5" type="ZmbF_VillagerOld_Green"/>
+            <child lootmax="7" lootmin="0" max="0" min="5" type="ZmbF_VillagerOld_Red"/>
+            <child lootmax="7" lootmin="0" max="0" min="5" type="ZmbF_VillagerOld_White"/>
+            <child lootmax="7" lootmin="0" max="0" min="6" type="ZmbM_FarmerFat_Beige"/>
+            <child lootmax="7" lootmin="0" max="0" min="6" type="ZmbM_FarmerFat_Blue"/>
+            <child lootmax="7" lootmin="0" max="0" min="6" type="ZmbM_FarmerFat_Brown"/>
+            <child lootmax="7" lootmin="0" max="0" min="6" type="ZmbM_FarmerFat_Green"/>
+            <child lootmax="7" lootmin="0" max="0" min="5" type="ZmbM_Jacket_beige"/>
+            <child lootmax="7" lootmin="0" max="0" min="5" type="ZmbM_Jacket_black"/>
+            <child lootmax="7" lootmin="0" max="0" min="5" type="ZmbM_Jacket_blue"/>
+            <child lootmax="7" lootmin="0" max="0" min="5" type="ZmbM_Jacket_bluechecks"/>
+            <child lootmax="7" lootmin="0" max="0" min="5" type="ZmbM_Jacket_brown"/>
+            <child lootmax="7" lootmin="0" max="0" min="5" type="ZmbM_Jacket_greenchecks"/>
+            <child lootmax="7" lootmin="0" max="0" min="5" type="ZmbM_Jacket_grey"/>
+            <child lootmax="7" lootmin="0" max="0" min="5" type="ZmbM_Jacket_khaki"/>
+            <child lootmax="7" lootmin="0" max="0" min="5" type="ZmbM_Jacket_magenta"/>
+            <child lootmax="7" lootmin="0" max="0" min="5" type="ZmbM_Jacket_stripes"/>
+            <child lootmax="7" lootmin="0" max="0" min="6" type="ZmbM_JoggerSkinny_Blue"/>
+            <child lootmax="7" lootmin="0" max="0" min="6" type="ZmbM_JoggerSkinny_Green"/>
+            <child lootmax="7" lootmin="0" max="0" min="6" type="ZmbM_JoggerSkinny_Red"/>
+            <child lootmax="7" lootmin="0" max="0" min="8" type="ZmbM_VillagerOld_Blue"/>
+            <child lootmax="7" lootmin="0" max="0" min="8" type="ZmbM_VillagerOld_Green"/>
+            <child lootmax="7" lootmin="0" max="0" min="8" type="ZmbM_VillagerOld_White"/>
         </children>
     </event>
     <event name="ItemPlanks">
@@ -685,7 +685,7 @@
     </event>
     <event name="TrajectoryConiferous">
         <waves>0</waves>
-        <nominal>140</nominal>
+        <nominal>240</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -704,7 +704,7 @@
     </event>
     <event name="TrajectoryDeciduous">
         <waves>0</waves>
-        <nominal>140</nominal>
+        <nominal>240</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -722,7 +722,7 @@
     </event>
     <event name="TrajectoryHumus">
         <waves>0</waves>
-        <nominal>140</nominal>
+        <nominal>240</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -813,7 +813,7 @@
     </event>
     <event name="TrajectoryStumps">
         <waves>0</waves>
-        <nominal>140</nominal>
+        <nominal>240</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>

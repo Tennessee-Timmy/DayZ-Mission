@@ -3025,6 +3025,53 @@
 			<item name="Hatchback_02_Trunk" chance="100.0" />
 		</attachments>
 	</type>
+	<type name="Sedan_02">
+		<attachments chance="100.00">
+			<item name="Sedan_02_Wheel" chance="100.00" />
+		</attachments>
+		<attachments chance="100.00">
+			<item name="Sedan_02_Wheel" chance="100.00" />
+		</attachments>
+		<attachments chance="100.00">
+			<item name="Sedan_02_Wheel" chance="100.00" />
+		</attachments>
+		<attachments chance="100.00">
+			<item name="Sedan_02_Wheel" chance="100.00" />
+		</attachments>
+		<attachments chance="100.00">
+			<item name="CarRadiator" chance="100.00" />
+		</attachments>
+		<attachments chance="100.00">
+			<item name="CarBattery" chance="100.00" />
+		</attachments>
+		<attachments chance="100.00">
+			<item name="SparkPlug" chance="100.00" />
+		</attachments>
+		<attachments chance="100.00">
+			<item name="HeadlightH7" chance="100.00" />
+		</attachments>
+		<attachments chance="100.00">
+			<item name="HeadlightH7" chance="100.00" />
+		</attachments>
+		<attachments chance="100.00">
+			<item name="Sedan_02_Door_1_1" chance="100.00" />
+		</attachments>
+		<attachments chance="100.00">
+			<item name="Sedan_02_Door_1_2" chance="100.00" />
+		</attachments>
+		<attachments chance="100.00">
+			<item name="Sedan_02_Door_2_1" chance="100.00" />
+		</attachments>
+		<attachments chance="100.00">
+			<item name="Sedan_02_Door_2_2" chance="100.00" />
+		</attachments>
+		<attachments chance="100.00">
+			<item name="Sedan_02_Hood" chance="100.00" />
+		</attachments>
+		<attachments chance="100.00">
+			<item name="Sedan_02_Trunk" chance="100.00" />
+		</attachments>
+	</type>
 <!--
     <type name="V3S_Chassis">
         <attachments chance="1.00">
