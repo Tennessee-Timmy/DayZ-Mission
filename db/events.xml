@@ -195,7 +195,7 @@
     </event>
     <event name="InfectedArmy">
         <waves>0</waves>
-        <nominal>150</nominal>
+        <nominal>50</nominal>
         <min>25</min>
         <max>250</max>
         <lifetime>3</lifetime>
@@ -219,7 +219,7 @@
     </event>
     <event name="InfectedCity">
         <waves>0</waves>
-        <nominal>150</nominal>
+        <nominal>50</nominal>
         <min>125</min>
         <max>250</max>
         <lifetime>3</lifetime>
@@ -595,7 +595,7 @@
     </event>
     <event name="StaticHeliCrash">
         <waves>0</waves>
-        <nominal>50</nominal>
+        <nominal>3</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>2500</lifetime>
@@ -649,7 +649,7 @@
     </event>
     <event name="TrajectoryApple">
         <waves>0</waves>
-        <nominal>140</nominal>
+        <nominal>50</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -667,7 +667,7 @@
     </event>
     <event name="TrajectoryCanina">
         <waves>0</waves>
-        <nominal>140</nominal>
+        <nominal>50</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -685,7 +685,7 @@
     </event>
     <event name="TrajectoryConiferous">
         <waves>0</waves>
-        <nominal>240</nominal>
+        <nominal>50</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -704,7 +704,7 @@
     </event>
     <event name="TrajectoryDeciduous">
         <waves>0</waves>
-        <nominal>240</nominal>
+        <nominal>50</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -722,7 +722,7 @@
     </event>
     <event name="TrajectoryHumus">
         <waves>0</waves>
-        <nominal>240</nominal>
+        <nominal>50</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -741,7 +741,7 @@
     </event>
     <event name="TrajectoryPear">
         <waves>0</waves>
-        <nominal>140</nominal>
+        <nominal>50</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -759,7 +759,7 @@
     </event>
     <event name="TrajectoryPlum">
         <waves>0</waves>
-        <nominal>140</nominal>
+        <nominal>50</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -777,7 +777,7 @@
     </event>
     <event name="TrajectorySambucus">
         <waves>0</waves>
-        <nominal>140</nominal>
+        <nominal>50</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -795,7 +795,7 @@
     </event>
     <event name="TrajectoryStones">
         <waves>0</waves>
-        <nominal>100</nominal>
+        <nominal>50</nominal>
         <min>1</min>
         <max>2</max>
         <lifetime>180</lifetime>
@@ -813,7 +813,7 @@
     </event>
     <event name="TrajectoryStumps">
         <waves>0</waves>
-        <nominal>240</nominal>
+        <nominal>50</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>180</lifetime>
@@ -831,8 +831,8 @@
     </event>
     <event name="VehicleCivilianSedan">
         <waves>0</waves>
-        <nominal>175</nominal>
-        <min>50</min>
+        <nominal>5</nominal>
+        <min>1</min>
         <max>200</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
@@ -851,8 +851,8 @@
     </event>
     <event name="VehicleOffroadHatchback">
         <waves>0</waves>
-        <nominal>75</nominal>
-        <min>50</min>
+        <nominal>5</nominal>
+        <min>1</min>
         <max>100</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
@@ -865,91 +865,7 @@
         <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="100" min="50" type="OffroadHatchback"/>
-        </children>
-    </event>
-    <event name="VehicleTransitBus">
-        <waves>0</waves>
-        <nominal>5</nominal>
-        <min>3</min>
-        <max>5</max>
-        <lifetime>300</lifetime>
-        <restock>0</restock>
-        <saferadius>1000</saferadius>
-        <distanceradius>750</distanceradius>
-        <cleanupradius>200</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>mixed</limit>
-        <active>0</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="5" min="5" type="TransitBus"/>
-        </children>
-    </event>
-    <event name="VehicleV3S">
-        <waves>0</waves>
-        <nominal>15</nominal>
-        <min>8</min>
-        <max>15</max>
-        <lifetime>300</lifetime>
-        <restock>0</restock>
-        <saferadius>1000</saferadius>
-        <distanceradius>500</distanceradius>
-        <cleanupradius>200</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>mixed</limit>
-        <active>0</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="5" min="5" type="V3S_Cargo"/>
-            <child lootmax="0" lootmin="0" max="5" min="5" type="V3S_Cargo_Blue"/>
-            <child lootmax="0" lootmin="0" max="5" min="5" type="V3S_Cargo_Grey"/>
-            <child lootmax="0" lootmin="0" max="5" min="5" type="V3S_Cargo_Orange"/>
-            <child lootmax="0" lootmin="0" max="10" min="10" type="V3S_Chassis"/>
-            <child lootmax="0" lootmin="0" max="10" min="10" type="V3S_Chassis_Blue"/>
-            <child lootmax="0" lootmin="0" max="10" min="10" type="V3S_Chassis_Grey"/>
-            <child lootmax="0" lootmin="0" max="10" min="10" type="V3S_Chassis_Orange"/>
-        </children>
-    </event>
-    <event name="VehicleV3SCargo">
-        <waves>0</waves>
-        <nominal>5</nominal>
-        <min>3</min>
-        <max>5</max>
-        <lifetime>300</lifetime>
-        <restock>0</restock>
-        <saferadius>1000</saferadius>
-        <distanceradius>500</distanceradius>
-        <cleanupradius>200</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>mixed</limit>
-        <active>0</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="5" min="5" type="V3S_Cargo"/>
-            <child lootmax="0" lootmin="0" max="5" min="5" type="V3S_Cargo_Blue"/>
-            <child lootmax="0" lootmin="0" max="5" min="5" type="V3S_Cargo_Grey"/>
-            <child lootmax="0" lootmin="0" max="5" min="5" type="V3S_Cargo_Orange"/>
-        </children>
-    </event>
-    <event name="VehicleV3SChassis">
-        <waves>0</waves>
-        <nominal>10</nominal>
-        <min>5</min>
-        <max>10</max>
-        <lifetime>300</lifetime>
-        <restock>0</restock>
-        <saferadius>1000</saferadius>
-        <distanceradius>500</distanceradius>
-        <cleanupradius>200</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>mixed</limit>
-        <active>0</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="10" min="10" type="V3S_Chassis"/>
-            <child lootmax="0" lootmin="0" max="10" min="10" type="V3S_Chassis_Blue"/>
-            <child lootmax="0" lootmin="0" max="10" min="10" type="V3S_Chassis_Grey"/>
-            <child lootmax="0" lootmin="0" max="10" min="10" type="V3S_Chassis_Orange"/>
+            <child lootmax="0" lootmin="0" max="100" min="50" type="Gerph_Zil130"/>
         </children>
     </event>
 </events>
