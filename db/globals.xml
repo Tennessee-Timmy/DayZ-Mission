@@ -8,7 +8,7 @@
     <var name="RespawnAttempt" type="0" value="2"/>
     <var name="RespawnLimit" type="0" value="20"/>
     <var name="RespawnTypes" type="0" value="12"/>
-    <var name="SpawnInitial" type="0" value="12000"/>
+    <var name="SpawnInitial" type="0" value="60"/>
     <var name="ZombieMaxCount" type="0" value="10000"/>
     <var name="CleanupLifetimeDefault" type="0" value="45"/>
     <var name="ZoneSpawnDist" type="0" value="500"/>
