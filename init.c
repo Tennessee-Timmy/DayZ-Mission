@@ -93,15 +93,16 @@ class CustomMission: MissionServer
 
 			SetRandomHealth(itemEnt);
 		}
-		Weapon_Base oWpn = player.CreateInHands( "Glock19" );
-		Magazine oMag = Magazine.Cast( player.GetInventory().CreateInInventory( "Mag_Glock_15Rnd" ) );
+		//Weapon_Base oWpn = player.GetHumanInventory().CreateInHands( "Glock19" );
+		//Magazine oMag = Magazine.Cast( player.GetInventory().CreateInInventory( "Mag_Glock_15Rnd" ) );
 		//player.GetDayZPlayerInventory().PostWeaponEvent( new WeaponEventAttachMagazine( player, oMag ) );
-		bool isMagAttached = oWpn.AttachMagazine(o.Wpn.GetCurrentMuzzle(), oMag);
-		EntityAI item = player.GetInventory().CreateInInventory( "Mag_Glock_15Rnd" );
-
-		player.SetQuickBarEntityShortcut( oWpn, 0, true );
-		player.SetQuickBarEntityShortcut( oMag, 1, true );
-		player.SetQuickBarEntityShortcut( item, 1, true );
+		//bool isMagAttached = oWpn.AttachMagazine(oWpn.GetCurrentMuzzle(), oMag);
+		itemEnt = player.GetInventory().CreateInInventory( "Glock19" );
+		player.SetQuickBarEntityShortcut( itemEnt, 0, true );
+		itemEnt = player.GetInventory().CreateInInventory( "Mag_Glock_15Rnd" );
+		player.SetQuickBarEntityShortcut( itemEnt, 1, true );
+		itemEnt = player.GetInventory().CreateInInventory( "Mag_Glock_15Rnd" );
+		player.SetQuickBarEntityShortcut( itemEnt, 2, true );
 	}
 };
 
