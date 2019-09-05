@@ -5371,7 +5371,7 @@
 						<point pos="4.750735 0.906868 6.758787" range="1.199951" height="2.000000" />
 				</container>
 		</group>
-		<group name="Land_Mil_Barracks1" lootmax="20">
+		<group name="Land_Mil_Barracks1" lootmin="20" lootmax="20">
 				<usage name="Military" />
 				<container name="lootFloor" lootmax="18">
 						<category name="tools" />
@@ -5457,7 +5457,7 @@
 						<point pos="3.711096 -0.731201 -2.212100" range="0.478125" height="1.195313" />
 				</container>
 		</group>
-		<group name="Land_Mil_Barracks2" lootmax="20">
+		<group name="Land_Mil_Barracks2" lootmin="20" lootmax="20">
 				<usage name="Military" />
 				<container name="lootFloor" lootmax="18">
 						<category name="tools" />
@@ -5528,7 +5528,7 @@
 						<point pos="-1.883546 -1.098541 8.319878" range="1.153076" height="2.000000" />
 				</container>
 		</group>
-		<group name="Land_Mil_Barracks3" lootmax="20">
+		<group name="Land_Mil_Barracks3" lootmin="20" lootmax="20">
 				<usage name="Military" />
 				<container name="lootFloor" lootmax="18">
 						<category name="tools" />
@@ -5615,7 +5615,7 @@
 						<point pos="3.583312 -1.875916 -5.624228" range="0.481934" height="1.204834" />
 				</container>
 		</group>
-		<group name="Land_Mil_Barracks4" lootmax="18">
+		<group name="Land_Mil_Barracks4" lootmin="20" lootmax="28">
 				<usage name="Military" />
 				<container name="lootFloor" lootmax="15">
 						<category name="tools" />
@@ -5656,7 +5656,7 @@
 						<point pos="-2.029328 -1.465946 4.138081" range="1.200000" height="2.000004" />
 				</container>
 		</group>
-		<group name="Land_Mil_Barracks5" lootmax="18">
+		<group name="Land_Mil_Barracks5" lootmin="20" lootmax="28">
 				<usage name="Military" />
 				<container name="lootFloor" lootmax="16">
 						<category name="tools" />
@@ -5712,7 +5712,7 @@
 						<point pos="-2.076275 -0.933044 13.855999" range="1.199951" height="2.000000" />
 				</container>
 		</group>
-		<group name="Land_Mil_Barracks6" lootmax="50">
+		<group name="Land_Mil_Barracks6" lootmin="20" lootmax="50">
 				<usage name="Military" />
 				<container name="lootFloor" lootmax="20">
 						<category name="tools" />
@@ -6845,7 +6845,7 @@
 						<point pos="7.051305 -4.268127 6.184982" range="1.199951" height="2.000000" />
 				</container>
 		</group>
-		<group name="Land_Tisy_Barracks" lootmax="50">
+		<group name="Land_Tisy_Barracks" lootmin="30" lootmax="70">
 				<usage name="Military" />
 				<container name="lootFloor" lootmax="30">
 						<category name="tools" />
