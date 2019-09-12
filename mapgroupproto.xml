@@ -7464,7 +7464,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_Guardhouse1" lootmax="12">
-				<usage name="Police" />
+				<usage name="RealPolice" />
 				<container name="lootFloor" lootmax="12">
 						<category name="tools" />
 						<category name="containers" />
@@ -7631,7 +7631,7 @@
 				</container>
 		</group>
 		<group name="Land_Village_PoliceStation" lootmax="30">
-				<usage name="Police" />
+				<usage name="RealPolice" />
 				<container name="lootFloor" lootmax="20">
 						<category name="tools" />
 						<category name="containers" />
@@ -8197,7 +8197,7 @@
 				</container>
 		</group>
 		<group name="Land_City_PoliceStation" lootmax="60">
-				<usage name="Police" />
+				<usage name="RealPolice" />
 				<container name="lootFloor" lootmax="30">
 						<category name="tools" />
 						<category name="containers" />
@@ -10883,7 +10883,7 @@
 				</container>
 		</group>
 		<group name="Land_Wreck_Volha_Police" lootmax="20">
-				<usage name="Police" />
+				<usage name="RealPolice" />
 				<container name="lootFloor" lootmax="20">
 						<category name="tools" />
 						<category name="containers" />
