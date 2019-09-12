@@ -33,10 +33,11 @@
         <usage name="Prison"/>
     </usageflags>
     <valueflags>
-        <value name="Tier0"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
+        <value name="Tier5"/>
+        <value name="TierEmpty"/>
     </valueflags>
 </lists>
