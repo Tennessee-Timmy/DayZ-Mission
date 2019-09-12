@@ -2,7 +2,7 @@
 <variables>
     <var name="CleanupAvoidance" type="0" value="50"/>
     <var name="CleanupLifetimeLimit" type="0" value="50"/>
-    <var name="TimeLogin" type="0" value="3"/>
+    <var name="TimeLogin" type="0" value="10"/>
     <var name="TimeLogout" type="0" value="35"/>
     <var name="TimePenalty" type="0" value="5"/>
     <var name="RespawnAttempt" type="0" value="2"/>
