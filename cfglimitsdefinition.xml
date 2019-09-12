@@ -16,6 +16,8 @@
     </tags>
     <usageflags>
         <usage name="HeliCrash"/>
+        <usage name="HeliCrashNATO"/>
+        <usage name="HeliCrashRU"/>
         <usage name="Military"/>
         <usage name="Police"/>
         <usage name="Medic"/>
@@ -31,6 +33,7 @@
         <usage name="Prison"/>
     </usageflags>
     <valueflags>
+        <value name="Tier0"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
         <value name="Tier3"/>

@@ -10828,7 +10828,7 @@
 				</container>
 		</group>
 		<group name="Wreck_Mi8" lootmax="20">
-				<usage name="Military" />
+				<usage name="HeliCrashRU" />
 				<container name="lootFloor" lootmax="20">
 						<category name="tools" />
 						<category name="containers" />
