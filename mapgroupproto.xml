@@ -17,8 +17,8 @@
 		</defaults>
 
 		<group name="Land_Shed_M1" lootmax="12">
-				<usage name="Industrial" />
-				<usage name="Farm" />
+				<usage name="RealIndustrial" />
+				<usage name="RealFarm" />
 				<container name="lootFloor" lootmax="12">
 						<category name="tools" />
 						<category name="containers" />
@@ -29,8 +29,8 @@
 				</container>
 		</group>
 		<group name="Land_Shed_M3" lootmax="12">
-				<usage name="Industrial" />
-				<usage name="Farm" />
+				<usage name="RealIndustrial" />
+				<usage name="RealFarm" />
 				<container name="lootFloor" lootmax="12">
 						<category name="tools" />
 						<category name="containers" />
@@ -43,7 +43,7 @@
 				</container>
 		</group>
 		<group name="Land_Shed_M4" lootmax="13">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -56,8 +56,8 @@
 				</container>
 		</group>
 		<group name="Land_Shed_W1" lootmax="12">
-				<usage name="Industrial" />
-				<usage name="Farm" />
+				<usage name="RealIndustrial" />
+				<usage name="RealFarm" />
 				<container name="lootFloor" lootmax="12">
 						<category name="tools" />
 						<category name="containers" />
@@ -69,8 +69,8 @@
 				</container>
 		</group>
 		<group name="Land_Shed_W2" lootmax="12">
-				<usage name="Industrial" />
-				<usage name="Farm" />
+				<usage name="RealIndustrial" />
+				<usage name="RealFarm" />
 				<container name="lootFloor" lootmax="12">
 						<category name="tools" />
 						<category name="containers" />
@@ -81,8 +81,8 @@
 				</container>
 		</group>
 		<group name="Land_Shed_W3" lootmax="12">
-				<usage name="Industrial" />
-				<usage name="Farm" />
+				<usage name="RealIndustrial" />
+				<usage name="RealFarm" />
 				<container name="lootFloor" lootmax="12">
 						<category name="tools" />
 						<category name="containers" />
@@ -98,8 +98,8 @@
 				</container>
 		</group>
 		<group name="Land_Shed_W4" lootmax="13">
-				<usage name="Industrial" />
-				<usage name="Farm" />
+				<usage name="RealIndustrial" />
+				<usage name="RealFarm" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -111,8 +111,8 @@
 				</container>
 		</group>
 		<group name="Land_Shed_W5" lootmax="13">
-				<usage name="Industrial" />
-				<usage name="Farm" />
+				<usage name="RealIndustrial" />
+				<usage name="RealFarm" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -125,8 +125,8 @@
 				</container>
 		</group>
 		<group name="Land_Shed_W6">
-				<usage name="Industrial" />
-				<usage name="Farm" />
+				<usage name="RealIndustrial" />
+				<usage name="RealFarm" />
 				<container name="lootFloor" lootmax="16">
 						<category name="tools" />
 						<category name="containers" />
@@ -142,8 +142,8 @@
 				</container>
 		</group>
 		<group name="Land_Shed_Closed">
-				<usage name="Industrial" />
-				<usage name="Village" />
+				<usage name="RealIndustrial" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -187,7 +187,7 @@
 				</container>
 		</group>
 		<group name="Land_HouseBlock_1F1">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -235,7 +235,7 @@
 				</container>
 		</group>
 		<group name="Land_HouseBlock_1F2">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -275,7 +275,7 @@
 				</container>
 		</group>
 		<group name="Land_HouseBlock_1F3">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -305,7 +305,7 @@
 				</container>
 		</group>
 		<group name="Land_HouseBlock_1F4">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -339,7 +339,7 @@
 				</container>
 		</group>
 		<group name="Land_HouseBlock_1F_Corner" lootmax="17">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -405,7 +405,7 @@
 				</container>
 		</group>
 		<group name="Land_HouseBlock_2F1">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -459,7 +459,7 @@
 				</container>
 		</group>
 		<group name="Land_HouseBlock_2F2">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -513,7 +513,7 @@
 				</container>
 		</group>
 		<group name="Land_HouseBlock_2F3" lootmax="17">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -574,7 +574,7 @@
 				</container>
 		</group>
 		<group name="Land_HouseBlock_2F4" lootmax="17">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -632,7 +632,7 @@
 				</container>
 		</group>
 		<group name="Land_HouseBlock_2F5">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -681,7 +681,7 @@
 				</container>
 		</group>
 		<group name="Land_HouseBlock_2F6">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -736,7 +736,7 @@
 				</container>
 		</group>
 		<group name="Land_HouseBlock_2F7">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -771,7 +771,7 @@
 				</container>
 		</group>
 		<group name="Land_HouseBlock_2F8">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -820,7 +820,7 @@
 				</container>
 		</group>
 		<group name="Land_HouseBlock_2F9">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -866,7 +866,7 @@
 				</container>
 		</group>
 		<group name="Land_HouseBlock_2F_Corner">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -899,7 +899,7 @@
 				</container>
 		</group>
 		<group name="Land_HouseBlock_3F1" lootmax="18">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -937,7 +937,7 @@
 				</container>
 		</group>
 		<group name="Land_HouseBlock_3F2" lootmax="20">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -998,7 +998,7 @@
 				</container>
 		</group>
 		<group name="Land_HouseBlock_3F_Corner1" lootmax="20">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor" lootmax="16">
 						<category name="tools" />
 						<category name="containers" />
@@ -1081,7 +1081,7 @@
 				</container>
 		</group>
 		<group name="Land_HouseBlock_3F_Corner2" lootmax="20">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor" lootmax="16">
 						<category name="tools" />
 						<category name="containers" />
@@ -1146,7 +1146,7 @@
 				</container>
 		</group>
 		<group name="Land_HouseBlock_5F" lootmax="18">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -1204,7 +1204,7 @@
 				</container>
 		</group>
 		<group name="Land_Hotel_Damaged" lootmax="20">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor" lootmax="15">
 						<category name="tools" />
 						<category name="containers" />
@@ -1264,7 +1264,7 @@
 				</container>
 		</group>
 		<group name="Land_Hotel" lootmax="20">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor" lootmax="15">
 						<category name="tools" />
 						<category name="containers" />
@@ -1324,8 +1324,8 @@
 				</container>
 		</group>
 		<group name="Land_Office1" lootmax="40">
-				<usage name="Town" />
-				<usage name="Office" />
+				<usage name="RealTown" />
+				<usage name="RealOffice" />
 				<container name="lootFloor" lootmax="24">
 						<category name="tools" />
 						<category name="containers" />
@@ -1473,8 +1473,8 @@
 				</container>
 		</group>
 		<group name="Land_Office2" lootmax="40">
-				<usage name="Town" />
-				<usage name="Office" />
+				<usage name="RealTown" />
+				<usage name="RealOffice" />
 				<container name="lootFloor" lootmax="20">
 						<category name="tools" />
 						<category name="containers" />
@@ -1616,8 +1616,8 @@
 				</container>
 		</group>
 		<group name="Land_Office_Municipal2" lootmax="0">
-				<usage name="Town" />
-				<usage name="Office" />
+				<usage name="RealTown" />
+				<usage name="RealOffice" />
 				<container name="lootFloor" lootmax="0">
 						<category name="tools" />
 						<category name="containers" />
@@ -1635,7 +1635,7 @@
 				</container>
 		</group>
 		<group name="Land_City_Store" lootmax="50">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor" lootmax="30">
 						<category name="tools" />
 						<category name="containers" />
@@ -1766,7 +1766,7 @@
 				</container>
 		</group>
 		<group name="Land_City_Store_WithStairs" lootmax="50">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor" lootmax="20">
 						<category name="tools" />
 						<category name="containers" />
@@ -1942,7 +1942,7 @@
 				</container>
 		</group>
 		<group name="Land_Tenement_Small" lootmax="0">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor" lootmax="0">
 						<category name="tools" />
 						<category name="containers" />
@@ -1960,7 +1960,7 @@
 				</container>
 		</group>
 		<group name="Land_Tenement_Big" lootmax="0">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor" lootmax="0">
 						<category name="tools" />
 						<category name="containers" />
@@ -1978,7 +1978,7 @@
 				</container>
 		</group>
 		<group name="Land_City_Stand_News1">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -2016,7 +2016,7 @@
 				</container>
 		</group>
 		<group name="Land_City_Stand_News2">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -2047,7 +2047,7 @@
 				</container>
 		</group>
 		<group name="Land_City_Stand_FastFood">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -2085,7 +2085,7 @@
 				</container>
 		</group>
 		<group name="Land_City_Stand_Grocery">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -2129,7 +2129,7 @@
 				</container>
 		</group>
 		<group name="Land_BusStation_building">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -2158,7 +2158,7 @@
 				</container>
 		</group>
 		<group name="Land_BusStation_wall_bench" lootmax="12">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor" lootmax="12">
 						<category name="tools" />
 						<category name="containers" />
@@ -2186,7 +2186,7 @@
 				</container>
 		</group>
 		<group name="Land_BusStop_City" lootmax="14">
-				<usage name="Town" />
+				<usage name="RealTown" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -2201,8 +2201,8 @@
 				</container>
 		</group>
 		<group name="Land_House_1B01_Pub" lootmax="18">
-				<usage name="Town" />
-				<usage name="Village" />
+				<usage name="RealTown" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -2267,7 +2267,7 @@
 				</container>
 		</group>
 		<group name="Land_House_2B01">
-				<usage name="Village" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -2312,7 +2312,7 @@
 				</container>
 		</group>
 		<group name="Land_House_2B02">
-				<usage name="Village" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -2350,7 +2350,7 @@
 				</container>
 		</group>
 		<group name="Land_House_2B03">
-				<usage name="Village" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -2395,7 +2395,7 @@
 				</container>
 		</group>
 		<group name="Land_House_2B04">
-				<usage name="Village" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -2438,7 +2438,7 @@
 				</container>
 		</group>
 		<group name="Land_House_1W01">
-				<usage name="Village" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -2475,7 +2475,7 @@
 				</container>
 		</group>
 		<group name="Land_House_1W02">
-				<usage name="Village" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -2512,7 +2512,7 @@
 				</container>
 		</group>
 		<group name="Land_House_1W03">
-				<usage name="Village" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -2547,7 +2547,7 @@
 				</container>
 		</group>
 		<group name="Land_House_1W04">
-				<usage name="Village" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -2579,7 +2579,7 @@
 				</container>
 		</group>
 		<group name="Land_House_1W05">
-				<usage name="Village" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -2624,7 +2624,7 @@
 				</container>
 		</group>
 		<group name="Land_House_1W06">
-				<usage name="Village" />
+				<usage name="RealVillage" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -2667,7 +2667,7 @@
 				</container>
 		</group>
 		<group name="Land_House_1W07">
-				<usage name="Village" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -2725,7 +2725,7 @@
 				</container>
 		</group>
 		<group name="Land_House_1W08">
-				<usage name="Village" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -2767,7 +2767,7 @@
 				</container>
 		</group>
 		<group name="Land_House_1W09">
-				<usage name="Village" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -2812,7 +2812,7 @@
 				</container>
 		</group>
 		<group name="Land_House_1W10">
-				<usage name="Village" />
+				<usage name="RealVillage" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -2844,7 +2844,7 @@
 				</container>
 		</group>
 		<group name="Land_House_1W11">
-				<usage name="Village" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -2887,7 +2887,7 @@
 				</container>
 		</group>
 		<group name="Land_House_1W12">
-				<usage name="Village" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -2929,7 +2929,7 @@
 				</container>
 		</group>
 		<group name="Land_House_2W01">
-				<usage name="Village" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -2973,7 +2973,7 @@
 				</container>
 		</group>
 		<group name="Land_House_2W02">
-				<usage name="Village" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -3024,7 +3024,7 @@
 				</container>
 		</group>
 		<group name="Land_House_2W03">
-				<usage name="Village" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -3056,7 +3056,7 @@
 				</container>
 		</group>
 		<group name="Land_House_2W04">
-				<usage name="Village" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -3095,10 +3095,10 @@
 				</container>
 		</group>
 		<group name="Land_Village_store" lootmax="20">
-				<usage name="Village" />
-				<usage name="Hunting" />
-				<usage name="Farm" />
-				<usage name="School" />
+				<usage name="RealVillage" />
+				<usage name="RealHunting" />
+				<usage name="RealFarm" />
+				<usage name="RealSchool" />
 				<container name="lootFloor" lootmax="15">
 						<category name="tools" />
 						<category name="containers" />
@@ -3177,9 +3177,9 @@
 				</container>
 		</group>
 		<group name="Land_Village_Pub">
-				<usage name="Village" />
-				<usage name="Town" />
-				<usage name="School" />
+				<usage name="RealVillage" />
+				<usage name="RealTown" />
+				<usage name="RealSchool" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -3230,7 +3230,7 @@
 				</container>
 		</group>
 		<group name="Land_Misc_Well_Pump_Blue" lootmax="12">
-				<usage name="Village" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="clothes" />
@@ -3242,7 +3242,7 @@
 				</container>
 		</group>
 		<group name="Land_Misc_Well_Pump_Yellow" lootmax="12">
-				<usage name="Village" />
+				<usage name="RealVillage" />
 				<container name="lootFloor" lootmax="12">
 						<category name="tools" />
 						<category name="clothes" />
@@ -3252,7 +3252,7 @@
 				</container>
 		</group>
 		<group name="Land_Misc_Toilet_Dry" lootmax="11">
-				<usage name="Village" />
+				<usage name="RealVillage" />
 				<container name="lootshelves" lootmax="11">
 						<category name="books" />
 						<point pos="0.452524 -1.588959 0.504869" range="0.260498" height="0.651245" flags="32" />
@@ -3260,8 +3260,8 @@
 				</container>
 		</group>
 		<group name="Land_Wreck_Caravan_MGreen" lootmax="12">
-				<usage name="Village" />
-				<usage name="Industrial" />
+				<usage name="RealVillage" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="12">
 						<category name="tools" />
 						<category name="containers" />
@@ -3279,8 +3279,8 @@
 				</container>
 		</group>
 		<group name="Land_Wreck_Caravan_MRust" lootmax="12">
-				<usage name="Village" />
-				<usage name="Industrial" />
+				<usage name="RealVillage" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="12">
 						<category name="tools" />
 						<category name="containers" />
@@ -3298,8 +3298,8 @@
 				</container>
 		</group>
 		<group name="Land_Wreck_Caravan_WBrown" lootmax="12">
-				<usage name="Village" />
-				<usage name="Industrial" />
+				<usage name="RealVillage" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="12">
 						<category name="tools" />
 						<category name="containers" />
@@ -3316,8 +3316,8 @@
 				</container>
 		</group>
 		<group name="Land_Wreck_Caravan_WGreen" lootmax="12">
-				<usage name="Village" />
-				<usage name="Industrial" />
+				<usage name="RealVillage" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="12">
 						<category name="tools" />
 						<category name="containers" />
@@ -3335,10 +3335,10 @@
 				</container>
 		</group>
 		<group name="Land_Wreck_S1023_Blue" lootmax="14">
-				<usage name="Village" />
-				<usage name="Town" />
-				<usage name="School" />
-				<usage name="Office" />
+				<usage name="RealVillage" />
+				<usage name="RealTown" />
+				<usage name="RealSchool" />
+				<usage name="RealOffice" />
 				<container name="lootshelves">
 						<category name="tools" />
 						<category name="clothes" />
@@ -3354,10 +3354,10 @@
 				</container>
 		</group>
 		<group name="Land_Wreck_S1023_Red" lootmax="14">
-				<usage name="Village" />
-				<usage name="Town" />
-				<usage name="School" />
-				<usage name="Office" />
+				<usage name="RealVillage" />
+				<usage name="RealTown" />
+				<usage name="RealSchool" />
+				<usage name="RealOffice" />
 				<container name="lootshelves">
 						<category name="tools" />
 						<category name="clothes" />
@@ -3373,10 +3373,10 @@
 				</container>
 		</group>
 		<group name="Land_Wreck_S1023_Beige" lootmax="14">
-				<usage name="Village" />
-				<usage name="Town" />
-				<usage name="School" />
-				<usage name="Office" />
+				<usage name="RealVillage" />
+				<usage name="RealTown" />
+				<usage name="RealSchool" />
+				<usage name="RealOffice" />
 				<container name="lootshelves">
 						<category name="tools" />
 						<category name="clothes" />
@@ -3392,10 +3392,10 @@
 				</container>
 		</group>
 		<group name="Land_Wreck_Ikarus" lootmax="14">
-				<usage name="Village" />
-				<usage name="Town" />
-				<usage name="School" />
-				<usage name="Office" />
+				<usage name="RealVillage" />
+				<usage name="RealTown" />
+				<usage name="RealSchool" />
+				<usage name="RealOffice" />
 				<container name="lootshelves">
 						<category name="tools" />
 						<category name="clothes" />
@@ -3415,10 +3415,10 @@
 				</container>
 		</group>
 		<group name="Land_Wreck_Volha_Grey" lootmax="14">
-				<usage name="Village" />
-				<usage name="Town" />
-				<usage name="School" />
-				<usage name="Office" />
+				<usage name="RealVillage" />
+				<usage name="RealTown" />
+				<usage name="RealSchool" />
+				<usage name="RealOffice" />
 				<container name="lootshelves">
 						<category name="tools" />
 						<category name="clothes" />
@@ -3443,10 +3443,10 @@
 				</container>
 		</group>
 		<group name="Land_Wreck_Volha_Blue" lootmax="14">
-				<usage name="Village" />
-				<usage name="Town" />
-				<usage name="School" />
-				<usage name="Office" />
+				<usage name="RealVillage" />
+				<usage name="RealTown" />
+				<usage name="RealSchool" />
+				<usage name="RealOffice" />
 				<container name="lootshelves">
 						<category name="tools" />
 						<category name="clothes" />
@@ -3471,10 +3471,10 @@
 				</container>
 		</group>
 		<group name="Land_Wreck_Lada_Green" lootmax="14">
-				<usage name="Village" />
-				<usage name="Town" />
-				<usage name="School" />
-				<usage name="Office" />
+				<usage name="RealVillage" />
+				<usage name="RealTown" />
+				<usage name="RealSchool" />
+				<usage name="RealOffice" />
 				<container name="lootshelves">
 						<category name="tools" />
 						<category name="clothes" />
@@ -3500,10 +3500,10 @@
 				</container>
 		</group>
 		<group name="Land_Wreck_Lada_Red" lootmax="14">
-				<usage name="Village" />
-				<usage name="Town" />
-				<usage name="School" />
-				<usage name="Office" />
+				<usage name="RealVillage" />
+				<usage name="RealTown" />
+				<usage name="RealSchool" />
+				<usage name="RealOffice" />
 				<container name="lootshelves">
 						<category name="tools" />
 						<category name="clothes" />
@@ -3525,8 +3525,8 @@
 				</container>
 		</group>
 		<group name="Land_Workshop1" lootmax="13">
-				<usage name="Village" />
-				<usage name="Industrial" />
+				<usage name="RealVillage" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -3561,8 +3561,8 @@
 				</container>
 		</group>
 		<group name="Land_Workshop2" lootmax="13">
-				<usage name="Village" />
-				<usage name="Industrial" />
+				<usage name="RealVillage" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -3576,8 +3576,8 @@
 				</container>
 		</group>
 		<group name="Land_Workshop3">
-				<usage name="Village" />
-				<usage name="Industrial" />
+				<usage name="RealVillage" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -3627,8 +3627,8 @@
 				</container>
 		</group>
 		<group name="Land_Workshop4">
-				<usage name="Village" />
-				<usage name="Industrial" />
+				<usage name="RealVillage" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -3665,8 +3665,8 @@
 				</container>
 		</group>
 		<group name="Land_Workshop5" lootmax="13">
-				<usage name="Village" />
-				<usage name="Industrial" />
+				<usage name="RealVillage" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -3702,8 +3702,8 @@
 				</container>
 		</group>
 		<group name="Land_Tower_TC1">
-				<usage name="Village" />
-				<usage name="Industrial" />
+				<usage name="RealVillage" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -3725,8 +3725,8 @@
 				</container>
 		</group>
 		<group name="Land_Tower_TC2_Base">
-				<usage name="Village" />
-				<usage name="Industrial" />
+				<usage name="RealVillage" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -3744,7 +3744,7 @@
 				</container>
 		</group>
 		<group name="Land_Guardhouse" lootmax="13">
-				<usage name="Village" />
+				<usage name="RealVillage" />
 				<container name="lootFloor" lootmax="12">
 						<category name="tools" />
 						<category name="containers" />
@@ -3773,7 +3773,7 @@
 				</container>
 		</group>
 		<group name="Land_Garage_Small" lootmax="13">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -3805,7 +3805,7 @@
 				</container>
 		</group>
 		<group name="Land_Garage_Big">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="16">
 						<category name="tools" />
 						<category name="containers" />
@@ -3832,7 +3832,7 @@
 				</container>
 		</group>
 		<group name="Land_Garage_Row_Small">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -3918,7 +3918,7 @@
 				</container>
 		</group>
 		<group name="Land_Garage_Row_Big">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -3993,9 +3993,9 @@
 				</container>
 		</group>
 		<group name="Land_Garage_Office">
-				<usage name="Industrial" />
-				<usage name="Town" />
-				<usage name="Village" />
+				<usage name="RealIndustrial" />
+				<usage name="RealTown" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -4076,7 +4076,7 @@
 				</container>
 		</group>
 		<group name="Land_Factory_Lathes">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="16">
 						<category name="tools" />
 						<category name="containers" />
@@ -4155,7 +4155,7 @@
 				</container>
 		</group>
 		<group name="Land_Factory_Small" lootmax="18">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="18">
 						<category name="tools" />
 						<category name="containers" />
@@ -4202,7 +4202,7 @@
 				</container>
 		</group>
 		<group name="Land_Sawmill_Building">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="16">
 						<category name="tools" />
 						<category name="containers" />
@@ -4245,7 +4245,7 @@
 				</container>
 		</group>
 		<group name="Land_Mine_Building">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="16">
 						<category name="tools" />
 						<category name="containers" />
@@ -4269,7 +4269,7 @@
 				</container>
 		</group>
 		<group name="Land_Quarry_Main">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="16">
 						<category name="tools" />
 						<category name="containers" />
@@ -4316,7 +4316,7 @@
 				</container>
 		</group>
 		<group name="Land_CementWorks_ExpeditionA">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -4372,7 +4372,7 @@
 				</container>
 		</group>
 		<group name="Land_CementWorks_ExpeditionB">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -4389,7 +4389,7 @@
 				</container>
 		</group>
 		<group name="Land_CementWorks_ExpeditionC">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -4420,7 +4420,7 @@
 				</container>
 		</group>
 		<group name="Land_CementWorks_Hall1" lootmax="20">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="20">
 						<category name="tools" />
 						<category name="containers" />
@@ -4472,7 +4472,7 @@
 				</container>
 		</group>
 		<group name="Land_CoalPlant_Main" lootmax="20">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="tools" />
@@ -4543,7 +4543,7 @@
 				</container>
 		</group>
 		<group name="Land_CementWorks_Hall2_Brick">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -4604,7 +4604,7 @@
 				</container>
 		</group>
 		<group name="Land_CementWorks_Hall2_Grey">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -4649,7 +4649,7 @@
 				</container>
 		</group>
 		<group name="Land_CementWorks_MillB">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -4713,7 +4713,7 @@
 				</container>
 		</group>
 		<group name="Land_CementWorks_MillC">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -4756,7 +4756,7 @@
 				</container>
 		</group>
 		<group name="Land_CementWorks_SiloBig1A">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -4795,7 +4795,7 @@
 				</container>
 		</group>
 		<group name="Land_CementWorks_RotFurnace">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -4832,7 +4832,7 @@
 				</container>
 		</group>
 		<group name="Land_Repair_Center" lootmax="14">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -4870,7 +4870,7 @@
 				</container>
 		</group>
 		<group name="Land_Rail_Warehouse_Small">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -4913,7 +4913,7 @@
 				</container>
 		</group>
 		<group name="Land_Rail_Station_Big" lootmax="14">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -4948,8 +4948,8 @@
 				</container>
 		</group>
 		<group name="Land_Train_742_Blue">
-				<usage name="Industrial" />
-				<usage name="Village" />
+				<usage name="RealIndustrial" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -4968,8 +4968,8 @@
 				</container>
 		</group>
 		<group name="Land_Train_742_Red">
-				<usage name="Industrial" />
-				<usage name="Village" />
+				<usage name="RealIndustrial" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -4988,8 +4988,8 @@
 				</container>
 		</group>
 		<group name="Land_Train_Wagon_Box" lootmax="14">
-				<usage name="Industrial" />
-				<usage name="Village" />
+				<usage name="RealIndustrial" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -5004,7 +5004,7 @@
 				</container>
 		</group>
 		<group name="Land_Lighthouse" lootmax="14">
-				<usage name="Village" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -5024,8 +5024,8 @@
 				</container>
 		</group>
 		<group name="Land_Power_Station" lootmax="14">
-				<usage name="Industrial" />
-				<usage name="Village" />
+				<usage name="RealIndustrial" />
+				<usage name="RealVillage" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -5053,8 +5053,8 @@
 				</container>
 		</group>
 		<group name="Land_Power_Transformer_Build" lootmax="11">
-				<usage name="Industrial" />
-				<usage name="Village" />
+				<usage name="RealIndustrial" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -5066,8 +5066,8 @@
 				</container>
 		</group>
 		<group name="Land_Water_Station" lootmax="12">
-				<usage name="Industrial" />
-				<usage name="Village" />
+				<usage name="RealIndustrial" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -5082,7 +5082,7 @@
 				</container>
 		</group>
 		<group name="Land_Smokestack_Medium">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="clothes" />
@@ -5101,8 +5101,8 @@
 				</container>
 		</group>
 		<group name="Land_Smokestack_Big">
-				<usage name="Industrial" />
-				<usage name="Village" />
+				<usage name="RealIndustrial" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -5128,7 +5128,7 @@
 				</container>
 		</group>
 		<group name="Land_Pier_Crane_A">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="16">
 						<category name="tools" />
 						<category name="clothes" />
@@ -5151,7 +5151,7 @@
 				</container>
 		</group>
 		<group name="Land_Pier_Crane_B" lootmax="14">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="clothes" />
@@ -5173,7 +5173,7 @@
 				</container>
 		</group>
 		<group name="Land_Construction_Crane" lootmax="13">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -5191,7 +5191,7 @@
 				</container>
 		</group>
 		<group name="Land_Construction_Building" lootmax="40">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="30">
 						<category name="tools" />
 						<category name="containers" />
@@ -5312,7 +5312,7 @@
 				</container>
 		</group>
 		<group name="Land_Construction_House1" lootmax="16">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="16">
 						<category name="tools" />
 						<category name="containers" />
@@ -5338,7 +5338,7 @@
 				</container>
 		</group>
 		<group name="Land_Construction_House2" lootmax="18">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="16">
 						<category name="tools" />
 						<category name="containers" />
@@ -5372,7 +5372,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_Barracks1" lootmin="20" lootmax="20">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor" lootmax="18">
 						<category name="tools" />
 						<category name="containers" />
@@ -5458,7 +5458,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_Barracks2" lootmin="20" lootmax="20">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor" lootmax="18">
 						<category name="tools" />
 						<category name="containers" />
@@ -5529,7 +5529,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_Barracks3" lootmin="20" lootmax="20">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor" lootmax="18">
 						<category name="tools" />
 						<category name="containers" />
@@ -5616,7 +5616,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_Barracks4" lootmin="20" lootmax="28">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor" lootmax="15">
 						<category name="tools" />
 						<category name="containers" />
@@ -5657,7 +5657,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_Barracks5" lootmin="20" lootmax="28">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor" lootmax="16">
 						<category name="tools" />
 						<category name="containers" />
@@ -5713,7 +5713,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_Barracks6" lootmin="20" lootmax="50">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor" lootmax="20">
 						<category name="tools" />
 						<category name="containers" />
@@ -5990,7 +5990,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_Barracks_Round" lootmax="15">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -6028,7 +6028,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_Tent_Big1_1" lootmax="15">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -6058,7 +6058,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_Tent_Big1_2" lootmax="15">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -6087,7 +6087,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_Tent_Big1_3" lootmax="15">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -6121,7 +6121,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_Tent_Big1_4" lootmax="15">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -6152,7 +6152,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_Tent_Big1_5" lootmax="15">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -6180,7 +6180,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_Tent_Big2_1" lootmax="15">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -6217,7 +6217,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_Tent_Big2_2" lootmax="15">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -6256,7 +6256,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_Tent_Big2_3" lootmax="15">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -6297,7 +6297,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_Tent_Big2_4" lootmax="15">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -6342,7 +6342,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_Tent_Big2_5" lootmax="15">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -6392,7 +6392,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_Tent_Big3" lootmax="18">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor" lootmax="18">
 						<category name="tools" />
 						<category name="containers" />
@@ -6424,7 +6424,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_Tent_Big4" lootmax="18">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor" lootmax="18">
 						<category name="tools" />
 						<category name="containers" />
@@ -6461,7 +6461,7 @@
 				</container>
 		</group>
 		<group name="Land_Tisy_HQ" lootmax="50">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor" lootmax="20">
 						<category name="tools" />
 						<category name="containers" />
@@ -6596,7 +6596,7 @@
 				</container>
 		</group>
 		<group name="Land_Tisy_Garages" lootmax="18">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor" lootmax="18">
 						<category name="tools" />
 						<category name="containers" />
@@ -6648,7 +6648,7 @@
 				</container>
 		</group>
 		<group name="Land_Tisy_RadarB_Base" lootmax="20">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor" lootmax="20">
 						<category name="tools" />
 						<category name="containers" />
@@ -6770,8 +6770,8 @@
 				</container>
 		</group>
 		<group name="Land_Tisy_Base_cooler" lootmax="12">
-				<usage name="Military" />
-				<usage name="Industrial" />
+				<usage name="RealMilitary" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -6788,7 +6788,7 @@
 				</container>
 		</group>
 		<group name="Land_Tisy_RadarPlatform_Top" lootmax="15">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor" lootmax="15">
 						<category name="tools" />
 						<category name="containers" />
@@ -6812,7 +6812,7 @@
 				</container>
 		</group>
 		<group name="Land_Tisy_KitchenRoom">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -6846,7 +6846,7 @@
 				</container>
 		</group>
 		<group name="Land_Tisy_Barracks" lootmin="30" lootmax="70">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor" lootmax="30">
 						<category name="tools" />
 						<category name="containers" />
@@ -6997,7 +6997,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_GuardTower" lootmax="12">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -7012,7 +7012,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_Tower_Small" lootmax="12">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor" lootmax="12">
 						<category name="clothes" />
 						<category name="weapons" />
@@ -7022,7 +7022,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_Fortified_Nest_Big">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -7051,7 +7051,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_Fortified_Nest_Watchtower">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -7075,7 +7075,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_GuardShed" lootmax="12">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor" lootmax="12">
 						<category name="weapons" />
 						<point pos="0.172291 -0.644226 0.789042" range="0.602539" height="1.506348" flags="32" />
@@ -7084,7 +7084,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_ATC_Small">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -7120,7 +7120,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_ATC_Big" lootmax="40">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor" lootmax="30">
 						<category name="tools" />
 						<category name="containers" />
@@ -7302,7 +7302,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_Airfield_HQ" lootmax="30">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor" lootmax="20">
 						<category name="tools" />
 						<category name="containers" />
@@ -7418,8 +7418,8 @@
 				</container>
 		</group>
 		<group name="Land_Mil_AircraftShelter" lootmax="16">
-				<usage name="Industrial" />
-				<usage name="Village" />
+				<usage name="RealIndustrial" />
+				<usage name="RealVillage" />
 				<container name="lootFloor" lootmax="14">
 						<category name="tools" />
 						<category name="containers" />
@@ -7506,7 +7506,7 @@
 				</container>
 		</group>
 		<group name="Land_Mil_Guardhouse2" lootmax="14">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -7522,7 +7522,7 @@
 				</container>
 		</group>
 		<group name="Land_Boathouse">
-				<usage name="Coast" />
+				<usage name="RealCoast" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -7546,8 +7546,8 @@
 				</container>
 		</group>
 		<group name="Land_Radio_building" lootmax="30">
-				<usage name="Town" />
-				<usage name="Village" />
+				<usage name="RealTown" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -7760,8 +7760,8 @@
 				</container>
 		</group>
 		<group name="Land_Airfield_Small_Control" lootmax="40">
-				<usage name="Town" />
-				<usage name="Village" />
+				<usage name="RealTown" />
+				<usage name="RealVillage" />
 				<container name="lootFloor" lootmax="30">
 						<category name="tools" />
 						<category name="containers" />
@@ -7897,8 +7897,8 @@
 				</container>
 		</group>
 		<group name="Land_Airfield_Small_Hangar" lootmax="20">
-				<usage name="Village" />
-				<usage name="Industrial" />
+				<usage name="RealVillage" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="20">
 						<category name="tools" />
 						<category name="containers" />
@@ -7953,7 +7953,7 @@
 				</container>
 		</group>
 		<group name="Land_Airfield_Hangar_Green">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="16">
 						<category name="tools" />
 						<category name="containers" />
@@ -7989,7 +7989,7 @@
 				</container>
 		</group>
 		<group name="Land_Airfield_ServiceHangar_L">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="16">
 						<category name="tools" />
 						<category name="containers" />
@@ -8082,7 +8082,7 @@
 				</container>
 		</group>
 		<group name="Land_Airfield_ServiceHangar_R">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor" lootmax="16">
 						<category name="tools" />
 						<category name="containers" />
@@ -8166,8 +8166,8 @@
 				</container>
 		</group>
 		<group name="Land_FuelStation_Build" lootmax="14">
-				<usage name="Town" />
-				<usage name="Village" />
+				<usage name="RealTown" />
+				<usage name="RealVillage" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -8441,7 +8441,7 @@
 				</container>
 		</group>
 		<group name="Land_City_FireStation" lootmax="30">
-				<usage name="Firefighter" />
+				<usage name="RealFirefighter" />
 				<container name="lootFloor" lootmax="20">
 						<category name="tools" />
 						<category name="containers" />
@@ -8619,7 +8619,7 @@
 				</container>
 		</group>
 		<group name="Land_Misc_Scaffolding" lootmax="14">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -8636,7 +8636,7 @@
 				</container>
 		</group>
 		<group name="Land_Prison_Main" lootmax="100">
-				<usage name="Prison" />
+				<usage name="RealPrison" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -8958,7 +8958,7 @@
 				</container>
 		</group>
 		<group name="Land_Prison_Side" lootmax="60">
-				<usage name="Prison" />
+				<usage name="RealPrison" />
 				<container name="lootFloor" lootmax="30">
 						<category name="tools" />
 						<category name="containers" />
@@ -9098,7 +9098,7 @@
 				</container>
 		</group>
 		<group name="Land_Prison_Wall_Large" lootmax="18">
-				<usage name="Prison" />
+				<usage name="RealPrison" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -9121,9 +9121,9 @@
 				</container>
 		</group>
 		<group name="Land_City_School" lootmax="60">
-				<usage name="School" />
-				<usage name="Town" />
-				<usage name="Village" />
+				<usage name="RealSchool" />
+				<usage name="RealTown" />
+				<usage name="RealVillage" />
 				<container name="lootFloor" lootmax="40">
 						<category name="tools" />
 						<category name="containers" />
@@ -9419,7 +9419,7 @@
 				</container>
 		</group>
 		<group name="Land_Village_HealthCare" lootmax="30">
-				<usage name="Medic" />
+				<usage name="RealMedic" />
 				<container name="lootFloor" lootmax="30">
 						<category name="tools" />
 						<category name="containers" />
@@ -9495,7 +9495,7 @@
 				</container>
 		</group>
 		<group name="Land_City_Hospital" lootmax="80">
-				<usage name="Medic" />
+				<usage name="RealMedic" />
 				<container name="lootFloor" lootmax="40">
 						<category name="tools" />
 						<category name="containers" />
@@ -9653,7 +9653,7 @@
 				</container>
 		</group>
 		<group name="Land_Misc_TrailRoof_Big" lootmax="12">
-				<usage name="Hunting" />
+				<usage name="RealHunting" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -9671,7 +9671,7 @@
 				</container>
 		</group>
 		<group name="Land_Misc_TrailRoof_Small" lootmax="12">
-				<usage name="Hunting" />
+				<usage name="RealHunting" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -9689,7 +9689,7 @@
 				</container>
 		</group>		
 		<group name="Land_Misc_DeerStand1" lootmax="12">
-				<usage name="Hunting" />
+				<usage name="RealHunting" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -9702,7 +9702,7 @@
 				</container>
 		</group>
 		<group name="Land_Misc_DeerStand2" lootmax="13">
-				<usage name="Hunting" />
+				<usage name="RealHunting" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -9716,7 +9716,7 @@
 				</container>
 		</group>
 		<group name="Land_Misc_FeedShack" lootmax="12">
-				<usage name="Hunting" />
+				<usage name="RealHunting" />
 				<container name="lootFloor" lootmax="12">
 						<category name="tools" />
 						<category name="containers" />
@@ -9729,7 +9729,7 @@
 				</container>
 		</group>
 		<group name="Land_Boat_Small1" lootmax="13">
-				<usage name="Coast" />
+				<usage name="RealCoast" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -9749,7 +9749,7 @@
 				</container>
 		</group>
 		<group name="Land_Boat_Small2" lootmax="13">
-				<usage name="Coast" />
+				<usage name="RealCoast" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -9767,7 +9767,7 @@
 				</container>
 		</group>
 		<group name="Land_Boat_Small3" lootmax="13">
-				<usage name="Coast" />
+				<usage name="RealCoast" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -9784,7 +9784,7 @@
 				</container>
 		</group>
 		<group name="Land_Camp_House_red">
-				<usage name="Hunting" />
+				<usage name="RealHunting" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -9830,7 +9830,7 @@
 				</container>
 		</group>
 		<group name="Land_Camp_House_white">
-				<usage name="Hunting" />
+				<usage name="RealHunting" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -9869,7 +9869,7 @@
 				</container>
 		</group>
 		<group name="Land_Camp_House_brown">
-				<usage name="Hunting" />
+				<usage name="RealHunting" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -9907,7 +9907,7 @@
 				</container>
 		</group>
 		<group name="Land_Castle_Bergfrit">
-				<usage name="Hunting" />
+				<usage name="RealHunting" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -9940,7 +9940,7 @@
 				</container>
 		</group>
 		<group name="Land_Castle_Gate" lootmax="14">
-				<usage name="Hunting" />
+				<usage name="RealHunting" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -9961,7 +9961,7 @@
 				</container>
 		</group>
 		<group name="Land_Castle_Stairs" lootmax="13">
-				<usage name="Hunting" />
+				<usage name="RealHunting" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -9984,13 +9984,13 @@
 				</container>
 		</group>
 		<group name="Land_Misc_Greenhouse" lootmax="0">
-				<usage name="Farm" />
+				<usage name="RealFarm" />
 				<container name="lootFloor" lootmax="0">
 						<category name="tools" />
 				</container>
 		</group>
 		<group name="Land_Farm_CowshedA" lootmax="15">
-				<usage name="Farm" />
+				<usage name="RealFarm" />
 				<container name="lootFloor" lootmax="15">
 						<category name="tools" />
 						<category name="containers" />
@@ -10006,7 +10006,7 @@
 				</container>
 		</group>
 		<group name="Land_Farm_CowshedB" lootmax="15">
-				<usage name="Farm" />
+				<usage name="RealFarm" />
 				<container name="lootFloor" lootmax="15">
 						<category name="tools" />
 						<category name="containers" />
@@ -10024,7 +10024,7 @@
 				</container>
 		</group>
 		<group name="Land_Farm_CowshedC" lootmax="15">
-				<usage name="Farm" />
+				<usage name="RealFarm" />
 				<container name="lootFloor" lootmax="15">
 						<category name="tools" />
 						<category name="containers" />
@@ -10038,7 +10038,7 @@
 				</container>
 		</group>
 		<group name="Land_Barn_Brick1">
-				<usage name="Farm" />
+				<usage name="RealFarm" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -10085,7 +10085,7 @@
 				</container>
 		</group>
 		<group name="Land_Barn_Brick2">
-				<usage name="Farm" />
+				<usage name="RealFarm" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -10114,7 +10114,7 @@
 				</container>
 		</group>
 		<group name="Land_Barn_Wood1">
-				<usage name="Farm" />
+				<usage name="RealFarm" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -10166,7 +10166,7 @@
 				</container>
 		</group>
 		<group name="Land_Barn_Wood2">
-				<usage name="Farm" />
+				<usage name="RealFarm" />
 				<container name="lootFloor" lootmax="16">
 						<category name="tools" />
 						<category name="containers" />
@@ -10188,7 +10188,7 @@
 				</container>
 		</group>
 		<group name="Land_Barn_Metal_Big">
-				<usage name="Industrial" />
+				<usage name="RealIndustrial" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -10256,8 +10256,8 @@
 				</container>
 		</group>
 		<group name="Land_Chapel" lootmax="13">
-				<usage name="Town" />
-				<usage name="Village" />
+				<usage name="RealTown" />
+				<usage name="RealVillage" />
 				<container name="lootFloor" lootmax="12">
 						<category name="tools" />
 						<category name="containers" />
@@ -10285,8 +10285,8 @@
 				</container>
 		</group>
 		<group name="Land_Church1_Yellow" lootmax="14">
-				<usage name="Town" />
-				<usage name="Village" />
+				<usage name="RealTown" />
+				<usage name="RealVillage" />
 				<container name="lootFloor" lootmax="12">
 						<category name="tools" />
 						<category name="containers" />
@@ -10317,8 +10317,8 @@
 				</container>
 		</group>
 		<group name="Land_Church2_2" lootmax="14">
-				<usage name="Town" />
-				<usage name="Village" />
+				<usage name="RealTown" />
+				<usage name="RealVillage" />
 				<container name="lootFloor" lootmax="12">
 						<category name="tools" />
 						<category name="containers" />
@@ -10356,8 +10356,8 @@
 				</container>
 		</group>
 		<group name="Land_Church3">
-				<usage name="Town" />
-				<usage name="Village" />
+				<usage name="RealTown" />
+				<usage name="RealVillage" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -10390,7 +10390,7 @@
 				</container>
 		</group>
 		<group name="Land_Container_1Mo" lootmax="11">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor" lootmax="11">
 						<category name="tools" />
 						<category name="containers" />
@@ -10403,7 +10403,7 @@
 				</container>
 		</group>
 		<group name="Land_Container_1Moh" lootmax="11">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor" lootmax="11">
 						<category name="tools" />
 						<category name="containers" />
@@ -10416,7 +10416,7 @@
 				</container>
 		</group>
 		<group name="Land_Container_1Bo" lootmax="13">
-				<usage name="Coast" />
+				<usage name="RealCoast" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -10432,7 +10432,7 @@
 				</container>
 		</group>
 		<group name="Land_Container_1Aoh" lootmax="13">
-				<usage name="Coast" />
+				<usage name="RealCoast" />
 				<container name="lootFloor" lootmax="13">
 						<category name="tools" />
 						<category name="containers" />
@@ -10448,11 +10448,11 @@
 				</container>
 		</group>
 		<group name="Land_Ship_Big_FrontA" lootmax="18">
-				<usage name="Industrial" />
-				<usage name="Coast" />
-				<usage name="Town" />
-				<usage name="Village" />
-				<usage name="Military" />
+				<usage name="RealIndustrial" />
+				<usage name="RealCoast" />
+				<usage name="RealTown" />
+				<usage name="RealVillage" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -10514,11 +10514,11 @@
 				</container>
 		</group>
 		<group name="Land_Ship_Big_FrontB" lootmax="18">
-				<usage name="Industrial" />
-				<usage name="Coast" />
-				<usage name="Town" />
-				<usage name="Village" />
-				<usage name="Military" />
+				<usage name="RealIndustrial" />
+				<usage name="RealCoast" />
+				<usage name="RealTown" />
+				<usage name="RealVillage" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -10569,11 +10569,11 @@
 				</container>
 		</group>
 		<group name="Land_Ship_Big_BackA" lootmax="18">
-				<usage name="Industrial" />
-				<usage name="Coast" />
-				<usage name="Town" />
-				<usage name="Village" />
-				<usage name="Military" />
+				<usage name="RealIndustrial" />
+				<usage name="RealCoast" />
+				<usage name="RealTown" />
+				<usage name="RealVillage" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -10610,11 +10610,11 @@
 				</container>
 		</group>
 		<group name="Land_Ship_Big_BackB" lootmax="18">
-				<usage name="Industrial" />
-				<usage name="Coast" />
-				<usage name="Town" />
-				<usage name="Village" />
-				<usage name="Military" />
+				<usage name="RealIndustrial" />
+				<usage name="RealCoast" />
+				<usage name="RealTown" />
+				<usage name="RealVillage" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -10641,11 +10641,11 @@
 				</container>
 		</group>
 		<group name="Land_Ship_Big_Castle" lootmax="18">
-				<usage name="Industrial" />
-				<usage name="Coast" />
-				<usage name="Town" />
-				<usage name="Village" />
-				<usage name="Military" />
+				<usage name="RealIndustrial" />
+				<usage name="RealCoast" />
+				<usage name="RealTown" />
+				<usage name="RealVillage" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -10800,7 +10800,7 @@
 				</container>
 		</group>
 		<group name="Wreck_UH1Y" lootmax="20">
-				<usage name="HeliCrash" />
+				<usage name="RealHeliCrash" />
 				<container name="lootFloor" lootmax="20">
 						<category name="tools" />
 						<category name="containers" />
@@ -10828,7 +10828,7 @@
 				</container>
 		</group>
 		<group name="Wreck_Mi8" lootmax="20">
-				<usage name="HeliCrashRU" />
+				<usage name="RealHeliCrashRU" />
 				<container name="lootFloor" lootmax="20">
 						<category name="tools" />
 						<category name="containers" />
@@ -10872,7 +10872,7 @@
 				</container>
 		</group>
 		<group name="Land_Wreck_C130J" lootmax="20">
-				<usage name="Military" />
+				<usage name="RealMilitary" />
 				<container name="lootFloor" lootmax="20">
 						<category name="tools" />
 						<category name="containers" />

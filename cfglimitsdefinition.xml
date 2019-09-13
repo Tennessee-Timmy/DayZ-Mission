@@ -31,7 +31,22 @@
         <usage name="Office"/>
         <usage name="School"/>
         <usage name="Prison"/>
+        <usage name="RealHeliCrash"/>
+        <usage name="RealHeliCrashNATO"/>
+        <usage name="RealHeliCrashRU"/>
+        <usage name="RealMilitary"/>
         <usage name="RealPolice"/>
+        <usage name="RealMedic"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealIndustrial"/>
+        <usage name="RealFarm"/>
+        <usage name="RealCoast"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
     </usageflags>
     <valueflags>
         <value name="Tier1"/>

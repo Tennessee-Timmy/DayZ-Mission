@@ -16,16 +16,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
     </type>
@@ -39,16 +39,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
     </type>
@@ -62,16 +62,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
     </type>
@@ -85,16 +85,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
    </type>
@@ -108,16 +108,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
     </type>
@@ -131,16 +131,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
    </type>
@@ -154,16 +154,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
     </type>
@@ -177,16 +177,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
    </type>
@@ -200,16 +200,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
    </type>
@@ -223,16 +223,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
     </type>
@@ -246,16 +246,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
    </type>
@@ -269,16 +269,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
     </type>
@@ -292,16 +292,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
    </type>
@@ -315,16 +315,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
     </type>
@@ -338,16 +338,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
    </type>
@@ -361,16 +361,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
     </type>
@@ -384,16 +384,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
    </type>
@@ -407,16 +407,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
    </type>
@@ -430,16 +430,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier2"/>
     </type>
@@ -453,16 +453,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier2"/>
    </type>
@@ -476,16 +476,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier2"/>
    </type>
@@ -499,16 +499,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier2"/>
    </type>
@@ -522,41 +522,41 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier2"/>
    </type>
    <type name="SKS">
-        <nominal>43</nominal>
+        <nominal>19</nominal>
         <lifetime>10800</lifetime>
         <restock>900</restock>
-        <min>20</min>
+        <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
-        <value name="Tier2"/>
+        <value name="Tier1"/>
    </type>
    <type name="STG_44">
         <nominal>43</nominal>
@@ -568,16 +568,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier2"/>
     </type>
@@ -591,16 +591,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier2"/>
    </type>
@@ -614,16 +614,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier2"/>
    </type>
@@ -637,16 +637,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier2"/>
    </type>
@@ -660,16 +660,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier2"/>
    </type>
@@ -683,16 +683,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier2"/>
    </type>
@@ -706,16 +706,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
     </type>
@@ -729,16 +729,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
    </type>
@@ -752,16 +752,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
     </type>
@@ -775,16 +775,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
    </type>
@@ -798,16 +798,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
     </type>
@@ -821,16 +821,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
    </type>
@@ -844,16 +844,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
    </type>
@@ -867,16 +867,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
     </type>
@@ -890,16 +890,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
    </type>
@@ -913,16 +913,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
    </type>
@@ -936,16 +936,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
     </type>
@@ -959,16 +959,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
    </type>
@@ -982,16 +982,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
     </type>
@@ -1005,16 +1005,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
     </type>
@@ -1028,16 +1028,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
     </type>
@@ -1051,16 +1051,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
     </type>
@@ -1074,39 +1074,33 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
    </type>
    <type name="AS_VAL">
-        <nominal>43</nominal>
+        <nominal>12</nominal>
         <lifetime>10800</lifetime>
         <restock>900</restock>
-        <min>20</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
     </type>
@@ -1120,16 +1114,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
    </type>
@@ -1143,16 +1137,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
     </type>
@@ -1166,39 +1152,23 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
    </type>
    <type name="SVD">
-        <nominal>43</nominal>
+        <nominal>23</nominal>
         <lifetime>10800</lifetime>
         <restock>900</restock>
-        <min>20</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
     </type>
@@ -1212,39 +1182,23 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
    </type>
    <type name="RPD">
-        <nominal>43</nominal>
+        <nominal>20</nominal>
         <lifetime>10800</lifetime>
         <restock>900</restock>
-        <min>20</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
     </type>
@@ -1258,16 +1212,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
    </type>
@@ -1281,16 +1227,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
     </type>
@@ -1304,16 +1242,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
    </type>
@@ -1327,16 +1257,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
     </type>
@@ -1350,16 +1272,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
    </type>
@@ -1373,16 +1287,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
     </type>
@@ -1396,16 +1302,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
    </type>
@@ -1419,16 +1317,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
     </type>
@@ -1442,16 +1332,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
    </type>
@@ -1465,16 +1347,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
     </type>
@@ -1488,16 +1362,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
    </type>
@@ -1511,16 +1377,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
     </type>
@@ -1534,16 +1392,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
    </type>
@@ -1557,16 +1407,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
     </type>
@@ -1580,16 +1422,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
    </type>
@@ -1603,16 +1437,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
     </type>
@@ -1626,16 +1452,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
    </type>
@@ -1649,16 +1467,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
     </type>
@@ -1672,16 +1482,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
         </type>
@@ -1695,16 +1497,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
     </type>
@@ -1718,16 +1512,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
      </type>
@@ -1743,16 +1529,16 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -1766,16 +1552,16 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
     </type>
@@ -1788,16 +1574,16 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -1811,16 +1597,16 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
     </type>
@@ -1833,16 +1619,16 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
     </type>
@@ -1855,16 +1641,16 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier2"/>
     </type>
@@ -1877,16 +1663,16 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier2"/>
     </type>
@@ -1899,16 +1685,16 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
     </type>
@@ -1921,16 +1707,16 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
         <value name="Tier4"/>
@@ -1944,16 +1730,16 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
     </type>
@@ -1966,16 +1752,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
     </type>
@@ -1988,16 +1766,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
     </type>
@@ -2010,16 +1780,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
     </type>
@@ -2032,16 +1794,8 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
     </type>
@@ -2059,11 +1813,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
         <tag name="shelves"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="School"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealSchool"/>
         
         <value name="Tier1"/>
     </type>
@@ -2078,11 +1832,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
         <tag name="shelves"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="School"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealSchool"/>
         
         <value name="Tier1"/>
     </type>
@@ -2097,11 +1851,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
         <tag name="shelves"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="School"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealSchool"/>
         
         <value name="Tier1"/>
     </type>
@@ -2116,11 +1870,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
         <tag name="shelves"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="School"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealSchool"/>
         
         <value name="Tier1"/>
     </type>
@@ -2135,11 +1889,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
         <tag name="shelves"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="School"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealSchool"/>
         
         <value name="Tier1"/>
     </type>
@@ -2154,11 +1908,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
         <tag name="shelves"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="School"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealSchool"/>
        
         <value name="Tier1"/>
     </type>
@@ -2173,11 +1927,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
         <tag name="shelves"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="School"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealSchool"/>
         
         <value name="Tier1"/>
     </type>
@@ -2192,11 +1946,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
         <tag name="shelves"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="School"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealSchool"/>
         
         <value name="Tier1"/>
     </type>
@@ -2211,11 +1965,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
         <tag name="shelves"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="School"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealSchool"/>
         
         <value name="Tier1"/>
     </type>
@@ -2230,11 +1984,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
         <tag name="shelves"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="School"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealSchool"/>
         
         <value name="Tier1"/> 
     </type>
@@ -2251,9 +2005,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-        <usage name="Village"/>
+        <usage name="RealIndustrial"/>
+        <usage name="RealFarm"/>
+        <usage name="RealVillage"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2268,9 +2022,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-        <usage name="Village"/>
+        <usage name="RealIndustrial"/>
+        <usage name="RealFarm"/>
+        <usage name="RealVillage"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2285,9 +2039,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-        <usage name="Village"/>
+        <usage name="RealIndustrial"/>
+        <usage name="RealFarm"/>
+        <usage name="RealVillage"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2302,9 +2056,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-        <usage name="Village"/>
+        <usage name="RealIndustrial"/>
+        <usage name="RealFarm"/>
+        <usage name="RealVillage"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2319,26 +2073,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-        <usage name="Village"/>
-        
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-    </type>
-    <type name="FieldShovel">
-        <nominal>100</nominal>
-        <lifetime>7200</lifetime>
-        <restock>0</restock>
-        <min>80</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-        <usage name="Village"/>
+        <usage name="RealIndustrial"/>
+        <usage name="RealFarm"/>
+        <usage name="RealVillage"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2353,9 +2090,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-        <usage name="Village"/>
+        <usage name="RealIndustrial"/>
+        <usage name="RealFarm"/>
+        <usage name="RealVillage"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2370,9 +2107,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-        <usage name="Village"/>
+        <usage name="RealIndustrial"/>
+        <usage name="RealFarm"/>
+        <usage name="RealVillage"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2387,9 +2124,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-        <usage name="Village"/>
+        <usage name="RealIndustrial"/>
+        <usage name="RealFarm"/>
+        <usage name="RealVillage"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2404,9 +2141,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-        <usage name="Village"/>
+        <usage name="RealIndustrial"/>
+        <usage name="RealFarm"/>
+        <usage name="RealVillage"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2421,9 +2158,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-        <usage name="Village"/>
+        <usage name="RealIndustrial"/>
+        <usage name="RealFarm"/>
+        <usage name="RealVillage"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2438,9 +2175,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-        <usage name="Village"/>
+        <usage name="RealIndustrial"/>
+        <usage name="RealFarm"/>
+        <usage name="RealVillage"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2455,9 +2192,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-        <usage name="Village"/>
+        <usage name="RealIndustrial"/>
+        <usage name="RealFarm"/>
+        <usage name="RealVillage"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2476,17 +2213,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
-        <usage name="Industrial"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
+        <usage name="RealIndustrial"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2504,17 +2241,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
-        <usage name="Industrial"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
+        <usage name="RealIndustrial"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2532,17 +2269,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
-        <usage name="Industrial"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
+        <usage name="RealIndustrial"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2560,17 +2297,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
-        <usage name="Industrial"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
+        <usage name="RealIndustrial"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2588,17 +2325,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
-        <usage name="Industrial"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
+        <usage name="RealIndustrial"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2616,17 +2353,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
-        <usage name="Industrial"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
+        <usage name="RealIndustrial"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2644,17 +2381,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
-        <usage name="Industrial"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
+        <usage name="RealIndustrial"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2672,17 +2409,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
-        <usage name="Industrial"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
+        <usage name="RealIndustrial"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2700,17 +2437,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
-        <usage name="Industrial"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
+        <usage name="RealIndustrial"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2728,17 +2465,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
-        <usage name="Industrial"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
+        <usage name="RealIndustrial"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2756,17 +2493,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
-        <usage name="Industrial"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
+        <usage name="RealIndustrial"/>
        
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2784,17 +2521,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
-        <usage name="Industrial"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
+        <usage name="RealIndustrial"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2812,17 +2549,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
-        <usage name="Industrial"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
+        <usage name="RealIndustrial"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2840,17 +2577,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
-        <usage name="Industrial"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
+        <usage name="RealIndustrial"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2868,17 +2605,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
-        <usage name="Industrial"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
+        <usage name="RealIndustrial"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2896,17 +2633,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
-        <usage name="Industrial"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
+        <usage name="RealIndustrial"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2924,17 +2661,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
-        <usage name="Industrial"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
+        <usage name="RealIndustrial"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2952,17 +2689,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
-        <usage name="Industrial"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
+        <usage name="RealIndustrial"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -2980,17 +2717,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
-        <usage name="Industrial"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
+        <usage name="RealIndustrial"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3008,17 +2745,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
-        <usage name="Industrial"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
+        <usage name="RealIndustrial"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3039,9 +2776,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Medic"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="RealMedic"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3058,8 +2795,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Medic"/>
-        <usage name="Town"/>
+        <usage name="RealMedic"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3076,8 +2814,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Medic"/>
-        <usage name="Town"/>
+        <usage name="RealMedic"/>
+        <usage name="RealTown"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3094,8 +2832,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Medic"/>
-        <usage name="Town"/>
+        <usage name="RealMedic"/>
+        <usage name="RealTown"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3112,9 +2850,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Medic"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="RealMedic"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3131,8 +2869,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Medic"/>
-        <usage name="Town"/>
+        <usage name="RealMedic"/>
+        <usage name="RealTown"/>
         
         <value name="Tier3"/>
     </type>
@@ -3147,8 +2885,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Medic"/>
-        <usage name="Town"/>
+        <usage name="RealMedic"/>
+        <usage name="RealTown"/>
         
         <value name="Tier3"/>
     </type>
@@ -3163,8 +2901,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Medic"/>
-        <usage name="Town"/>
+        <usage name="RealMedic"/>
+        <usage name="RealTown"/>
         
         <value name="Tier3"/>
     </type>
@@ -3181,8 +2919,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
+        <usage name="RealIndustrial"/>
+        <usage name="RealFarm"/>
 
         <value name="Tier3"/>
     </type>
@@ -3196,8 +2934,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
+        <usage name="RealIndustrial"/>
+        <usage name="RealFarm"/>
 
         <value name="Tier2"/>
         <value name="Tier3"/>
@@ -3212,8 +2950,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
+        <usage name="RealIndustrial"/>
+        <usage name="RealFarm"/>
 
         <value name="Tier3"/>
     </type>
@@ -3227,8 +2965,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
+        <usage name="RealIndustrial"/>
+        <usage name="RealFarm"/>
 
         <value name="Tier3"/>
     </type>
@@ -3245,16 +2983,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier2"/> 
     </type>
@@ -3268,16 +3006,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier2"/>
     </type>
@@ -3291,40 +3029,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
-        
-        <value name="Tier3"/>
-        <value name="Tier4"/> 
-    </type>
-    <type name="ReflexOptic">
-        <nominal>15</nominal>
-        <lifetime>7200</lifetime>
-        <restock>900</restock>
-        <min>8</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
         <value name="Tier4"/>  
@@ -3339,16 +3053,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
         <value name="Tier4"/> 
@@ -3363,16 +3077,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
         <value name="Tier4"/>
@@ -3387,16 +3101,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
         <value name="Tier4"/>  
@@ -3411,16 +3125,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
         <value name="Tier4"/>  
@@ -3435,16 +3149,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>  
     </type>
@@ -3458,16 +3172,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
     </type>
@@ -3481,16 +3195,16 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Farm"/>
-        <usage name="Firefighter"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPolice"/>
+        <usage name="RealFarm"/>
+        <usage name="RealFirefighter"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealHunting"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
     </type>
@@ -3507,12 +3221,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3527,12 +3241,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3547,12 +3261,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3567,12 +3281,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3587,12 +3301,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3607,12 +3321,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3627,12 +3341,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3647,12 +3361,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3667,12 +3381,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3687,12 +3401,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3707,12 +3421,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3727,12 +3441,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3747,12 +3461,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3767,12 +3481,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3787,12 +3501,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
     </type>
@@ -3806,12 +3520,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
     </type>
@@ -3825,12 +3539,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
     </type>
@@ -3844,12 +3558,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
     </type>
@@ -3863,8 +3577,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Military"/>
+        <usage name="RealFarm"/>
+        <usage name="RealMilitary"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3879,12 +3593,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3899,12 +3613,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3919,7 +3633,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Industrial"/>
+        <usage name="RealIndustrial"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3935,12 +3649,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3955,7 +3669,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Police"/>
+        <usage name="RealPolice"/>
      
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3971,7 +3685,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Police"/>
+        <usage name="RealPolice"/>
      
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -3987,7 +3701,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Police"/>
+        <usage name="RealPolice"/>
      
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -4003,7 +3717,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Police"/>
+        <usage name="RealPolice"/>
      
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -4019,7 +3733,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
       
         <value name="Tier2"/>
     </type>
@@ -4033,7 +3747,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
       
         <value name="Tier2"/>
     </type>
@@ -4047,7 +3761,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
       
         <value name="Tier2"/>
     </type>
@@ -4061,12 +3775,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier2"/>
     </type>
@@ -4080,12 +3794,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier2"/>
     </type>
@@ -4099,7 +3813,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
 
         <value name="Tier2"/>
     </type>
@@ -4113,12 +3827,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier2"/>
     </type>
@@ -4132,12 +3846,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier2"/>
     </type>
@@ -4151,12 +3865,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier2"/>
     </type>
@@ -4170,8 +3884,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Hunting"/>
-        <usage name="Military"/>
+        <usage name="RealHunting"/>
+        <usage name="RealMilitary"/>
         
         <value name="Tier2"/>
     </type>
@@ -4185,8 +3899,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Hunting"/>
-        <usage name="Military"/>
+        <usage name="RealHunting"/>
+        <usage name="RealMilitary"/>
         
         <value name="Tier2"/>
     </type>
@@ -4200,8 +3914,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Hunting"/>
-        <usage name="Military"/>
+        <usage name="RealHunting"/>
+        <usage name="RealMilitary"/>
         
         <value name="Tier2"/>
     </type>
@@ -4215,8 +3929,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Hunting"/>
-        <usage name="Military"/>
+        <usage name="RealHunting"/>
+        <usage name="RealMilitary"/>
         
         <value name="Tier2"/>
     </type>
@@ -4230,8 +3944,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Hunting"/>
-        <usage name="Military"/>
+        <usage name="RealHunting"/>
+        <usage name="RealMilitary"/>
         
         <value name="Tier2"/>
         <value name="Tier3"/>
@@ -4246,8 +3960,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Hunting"/>
-        <usage name="Military"/>
+        <usage name="RealHunting"/>
+        <usage name="RealMilitary"/>
         
         <value name="Tier2"/>
         <value name="Tier3"/>
@@ -4262,12 +3976,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier2"/>
     </type>
@@ -4281,7 +3995,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
     
         <value name="Tier2"/>
         <value name="Tier3"/>
@@ -4296,12 +4010,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier2"/>
     </type>
@@ -4315,12 +4029,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier2"/>
     </type>
@@ -4334,12 +4048,12 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Farm"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
+        <usage name="RealFarm"/>
+        <usage name="RealTown"/>
+        <usage name="RealVillage"/>
+        <usage name="RealOffice"/>
+        <usage name="RealSchool"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier2"/>
     </type>
@@ -4353,7 +4067,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealTown"/>
         
         <value name="Tier3"/>
     </type>
@@ -4367,7 +4082,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
         
         <value name="Tier3"/>
     </type>
@@ -4381,7 +4096,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealTown"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
         <value name="Tier4"/>
@@ -4396,7 +4113,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealTown"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
         <value name="Tier4"/>
@@ -4411,7 +4130,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealTown"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
     </type>
@@ -4425,7 +4146,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
         
         <value name="Tier3"/>
     </type>
@@ -4439,7 +4160,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealTown"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
     </type>
@@ -4453,7 +4176,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
         
         <value name="Tier3"/>
         <value name="Tier4"/>
@@ -4468,7 +4191,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
         
         <value name="Tier3"/>
         <value name="Tier4"/>
@@ -4483,7 +4206,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
         
         <value name="Tier3"/>
         <value name="Tier4"/>
@@ -4498,7 +4221,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
         
         <value name="Tier3"/>
         <value name="Tier4"/>
@@ -4513,7 +4236,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
         <value name="Tier4"/>
@@ -4528,7 +4252,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealTown"/>
         
         <value name="Tier3"/>
         <value name="Tier4"/>
@@ -4543,7 +4268,9 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealTown"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
         <value name="Tier4"/>
@@ -4558,7 +4285,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
         
         <value name="Tier3"/>
         <value name="Tier4"/>
@@ -4573,7 +4300,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier3"/>
         <value name="Tier4"/>
@@ -4588,7 +4316,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
         
         <value name="Tier4"/>
     </type>
@@ -4602,7 +4330,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
         
         <value name="Tier4"/>
     </type>
@@ -4616,7 +4344,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
     </type>
@@ -4630,7 +4359,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
         
         <value name="Tier4"/>
     </type>
@@ -4644,21 +4373,23 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
-        
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
+       
         <value name="Tier4"/>
     </type>
     <type name="K6_3_Helmet">
-        <nominal>20</nominal>
+        <nominal>7</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
     </type>
@@ -4672,7 +4403,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
         
         <value name="Tier4"/>
     </type>
@@ -4686,21 +4417,22 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
+        <usage name="RealPrison"/>
         
         <value name="Tier4"/>
     </type>
     <type name="MassRatnik_Black">
-        <nominal>20</nominal>
+        <nominal>3</nominal>
         <lifetime>5600</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <usage name="RealMilitary"/>
         
         <value name="Tier4"/>
     </type>
@@ -4717,7 +4449,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Police"/>
+        <usage name="RealPolice"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -4733,7 +4465,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Police"/>
+        <usage name="RealPolice"/>
         
         <value name="Tier1"/>
         <value name="Tier2"/>
