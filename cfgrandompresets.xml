@@ -25,7 +25,7 @@
 				<item name="SpaghettiCan" chance="0.11" />
 				<item name="BakedBeansCan" chance="0.11" />
 		</cargo>
-		<cargo chance="0.1" name="foodArmy">
+		<cargo chance="0.05" name="foodArmy">
 				<item name="SodaCan_Cola" chance="0.05" />
 				<item name="SodaCan_Pipsi" chance="0.05" />
 				<item name="SodaCan_Spite" chance="0.05" />
