@@ -78,7 +78,7 @@
 
 <!--Groups -->
 <!--Apple -->
-		<cluster name="CaninaBush1" lootmax="2" maxinstances="150">
+		<cluster name="CaninaBush1" lootmax="2" maxinstances="5">
 			<de name="TrajectoryCanina" />
 			<container name="branch" lootmax="1">
 			<point pos="-1.86 -2.40 0.12" range="0.55" height="1.0" flags="32" />
@@ -87,7 +87,7 @@
 			<point pos="-1.09 -2.40 1.47" range="0.55" height="1.0" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="CaninaBush2" lootmax="2" maxinstances="150">
+		<cluster name="CaninaBush2" lootmax="2" maxinstances="5">
 			<de name="TrajectoryCanina" />
 			<container name="branch" lootmax="1">
 			<point pos="-1.86 -2.40 0.12" range="0.55" height="1.0" flags="32" />
@@ -96,7 +96,7 @@
 			<point pos="-1.09 -2.40 1.47" range="0.55" height="1.0" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="SambucusBush1" lootmax="2" maxinstances="150">
+		<cluster name="SambucusBush1" lootmax="2" maxinstances="5">
 			<de name="TrajectorySambucus" />
 			<container name="branch" lootmax="1">
 			<point pos="-1.86 -2.40 0.12" range="0.55" height="1.0" flags="32" />
@@ -105,7 +105,7 @@
 			<point pos="-1.09 -2.40 1.47" range="0.55" height="1.0" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="SambucusBush2" lootmax="2" maxinstances="150">
+		<cluster name="SambucusBush2" lootmax="2" maxinstances="5">
 			<de name="TrajectorySambucus" />
 			<container name="branch" lootmax="1">
 			<point pos="-1.86 -2.40 0.12" range="0.55" height="1.0" flags="32" />
@@ -114,7 +114,7 @@
 			<point pos="-1.09 -2.40 1.47" range="0.55" height="1.0" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="AppleTree1" lootmax="2" maxinstances="150">
+		<cluster name="AppleTree1" lootmax="2" maxinstances="5">
 			<de name="TrajectoryApple" />
 			<container name="branch" lootmax="1">
 			<point pos="-1.86 -2.40 0.12" range="0.55" height="1.63" flags="32" />
@@ -123,7 +123,7 @@
 			<point pos="-1.09 -2.40 1.47" range="0.55" height="1.63" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="AppleTree2" lootmax="2" maxinstances="150">
+		<cluster name="AppleTree2" lootmax="2" maxinstances="5">
 			<de name="TrajectoryApple" />
 			<container name="branch" lootmax="1">
 			<point pos="0.25 -3.88 -1.00" range="0.70" height="2.00" flags="32" />
@@ -132,7 +132,7 @@
 			<point pos="-1.28 -3.88 -0.18" range="0.75" height="2.00" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="AppleTree3" lootmax="2" maxinstances="150">
+		<cluster name="AppleTree3" lootmax="2" maxinstances="5">
 			<de name="TrajectoryApple" />
 			<container name="branch" lootmax="1">
 			<point pos="0.13 -5.73 1.23" range="1.00" height="2.00" flags="32" />
@@ -142,7 +142,7 @@
 			</container>
 		</cluster>
 <!--Pear -->
-		<cluster name="PearTree1" lootmax="2" maxinstances="150">
+		<cluster name="PearTree1" lootmax="2" maxinstances="5">
 			<de name="TrajectoryPear" />
 			<container name="branch" lootmax="2">
 			<point pos="-0.82 -5.20 -0.37" range="0.55" height="1.63" flags="32" />
@@ -151,7 +151,7 @@
 			<point pos="-0.59 -5.20 1.42" range="0.55" height="1.63" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="PearTree2" lootmax="2" maxinstances="150">
+		<cluster name="PearTree2" lootmax="2" maxinstances="5">
 			<de name="TrajectoryPear" />
 			<container name="branch" lootmax="2">
 			<point pos="-0.34 -3.10 1.20" range="1.08" height="1.90" flags="32" />
@@ -160,7 +160,7 @@
 			<point pos="0.81 -3.10 -1.55" range="0.80" height="2.00" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="PearTree3" lootmax="2" maxinstances="150">
+		<cluster name="PearTree3" lootmax="2" maxinstances="5">
 			<de name="TrajectoryPear" />
 			<container name="branch" lootmax="2">
 			<point pos="-1.52 -5.77 -0.18" range="0.84" height="2.00" flags="32" />
@@ -170,7 +170,7 @@
 			</container>
 		</cluster>
  <!--Plum -->
-		<cluster name="PlumTree1" lootmax="2" maxinstances="150">
+		<cluster name="PlumTree1" lootmax="2" maxinstances="5">
 			<de name="TrajectoryPlum" />
 			<container name="branch" lootmax="2">
 			<point pos="-1.37 -4.75 0.040" range="0.89" height="2.00" flags="32" />
@@ -180,7 +180,7 @@
 			</container>
 		</cluster>
  <!--Mushrooms - Coniferous -->
-		<cluster name="PiceaAbies_2d" lootmax="2" maxinstances="150">
+		<cluster name="PiceaAbies_2d" lootmax="2" maxinstances="5">
 			<de name="TrajectoryConiferous" />
 			<container name="branch" lootmax="1">
 			<point pos="1.50 -6.50 0.12" range="0.30" height="1.20" flags="32" />
@@ -191,7 +191,7 @@
 			<point pos="0.80 -6.50 -1.43" range="1.00" height="2.00" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="PiceaAbies_3d" lootmax="2" maxinstances="150">
+		<cluster name="PiceaAbies_3d" lootmax="2" maxinstances="5">
 			<de name="TrajectoryConiferous" />
 			<container name="branch" lootmax="1">
 			<point pos="1.97 -09.90 0.09" range="1.01" height="2.00" flags="32" />
@@ -200,7 +200,7 @@
 			<point pos="-0.05 -09.90 2.08" range="1.05" height="2.00" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="PiceaAbies_fallen" lootmax="2" maxinstances="150">
+		<cluster name="PiceaAbies_fallen" lootmax="2" maxinstances="5">
 			<de name="TrajectoryConiferous" />
 			<container name="branch" lootmax="1">
 			<point pos="0.90 0.15 -4.38" range="0.83" height="2.00" flags="32" />
@@ -209,7 +209,7 @@
 			<point pos="-1.20 0.15 1.46" range="0.77" height="2.00" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="PiceaAbies_fallenB" lootmax="2" maxinstances="150">
+		<cluster name="PiceaAbies_fallenB" lootmax="2" maxinstances="5">
 			<de name="TrajectoryConiferous" />
 			<container name="branch" lootmax="1">
 			<point pos="1.44 0.12 0.59" range="1.09" height="2.00" flags="32" />
@@ -218,7 +218,7 @@
 			<point pos="1.16 0.12 -1.45" range="0.75" height="2.00" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="PiceaAbies_fallenC" lootmax="2" maxinstances="150">
+		<cluster name="PiceaAbies_fallenC" lootmax="2" maxinstances="5">
 			<de name="TrajectoryConiferous" />
 			<container name="branch" lootmax="1">
 			<point pos="0.55 -0.32 -0.21" range="0.75" height="2.00" flags="32" />
@@ -227,7 +227,7 @@
 			<point pos="-0.43 -0.32 -2.23" range="1.00" height="2.00" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="PiceaAbies_stump" lootmax="2" maxinstances="150">
+		<cluster name="PiceaAbies_stump" lootmax="2" maxinstances="5">
 			<de name="TrajectoryConiferous" />
 			<container name="branch" lootmax="1">
 			<point pos="0.91 0.20 0.44" range="0.65" height="2.00" flags="32" />
@@ -236,7 +236,7 @@
 			<point pos="-1.13 0.20 -0.28" range="0.39" height="2.00" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="PiceaAbies_stumpB" lootmax="2" maxinstances="150">
+		<cluster name="PiceaAbies_stumpB" lootmax="2" maxinstances="5">
 			<de name="TrajectoryConiferous" />
 			<container name="branch" lootmax="1">
 			<point pos="-0.15 -0.45 1.15" range="0.77" height="2.00" flags="32" />
@@ -244,7 +244,7 @@
 			<point pos="0.79 -0.45 -0.12" range="0.40" height="1.55" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="PinusSylvestris_3d" lootmax="2" maxinstances="150">
+		<cluster name="PinusSylvestris_3d" lootmax="2" maxinstances="5">
 			<de name="TrajectoryConiferous" />
 			<container name="branch" lootmax="1">
 			<point pos="1.30 -7.95 -0.35" range="1.06" height="2.00" flags="32" />
@@ -253,7 +253,7 @@
 			<point pos="-2.50 -7.95 0.09" range="1.09" height="2.00" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="PinusSylvestris_stump" lootmax="2" maxinstances="150">
+		<cluster name="PinusSylvestris_stump" lootmax="2" maxinstances="5">
 			<de name="TrajectoryConiferous" />
 			<container name="branch" lootmax="1">
 			<point pos="1.05 -0.82 -1.35" range="1.00" height="2.00" flags="32" />
@@ -262,7 +262,7 @@
 			<point pos="1.05 -0.82 1.18" range="0.83" height="2.00" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="PinusSylvestris_stumpB" lootmax="2" maxinstances="150">
+		<cluster name="PinusSylvestris_stumpB" lootmax="2" maxinstances="5">
 			<de name="TrajectoryConiferous" />
 			<container name="branch" lootmax="1">
 			<point pos="0.01 -0.01 -1.38" range="0.84" height="2.00" flags="32" />
@@ -270,7 +270,7 @@
 			<point pos="-1.60 -0.01 1.00" range="0.90" height="2.00" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="PinusSylvestris_fallen" lootmax="2" maxinstances="150">
+		<cluster name="PinusSylvestris_fallen" lootmax="2" maxinstances="5">
 			<de name="TrajectoryConiferous" />
 			<container name="branch" lootmax="1">
 			<point pos="0.93 -0.28 1.047" range="0.90" height="2.00" flags="32" />
@@ -278,7 +278,7 @@
 			<point pos="-1.70 -0.28 1.60" range="0.90" height="2.00" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="PinusSylvestris_fallenB" lootmax="2" maxinstances="150">
+		<cluster name="PinusSylvestris_fallenB" lootmax="2" maxinstances="5">
 			<de name="TrajectoryConiferous" />
 			<container name="branch" lootmax="1">
 			<point pos="0.50 -0.10 2.07" range="0.43" height="1.57" flags="32" />
@@ -287,7 +287,7 @@
 			<point pos="-1.04 -0.10 0.95" range="0.60" height="2.00" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="PinusSylvestris_fallenc" lootmax="2" maxinstances="150">
+		<cluster name="PinusSylvestris_fallenc" lootmax="2" maxinstances="5">
 			<de name="TrajectoryConiferous" />
 			<container name="branch" lootmax="1">
 			<point pos="0.82 -0.17 -1.35" range="0.77" height="2.00" flags="32" />
@@ -297,7 +297,7 @@
 			</container>
 		</cluster>
 <!--Mushrooms - DECIDUOUS -->
-		<cluster name="FagusSylvatica_2d" lootmax="2" maxinstances="150">
+		<cluster name="FagusSylvatica_2d" lootmax="2" maxinstances="5">
 			<de name="TrajectoryDeciduous" />
 			<container name="branch" lootmax="1">
 			<point pos="1.50 -8.50 0.12" range="0.478125" height="1.195313" flags="32" />
@@ -305,7 +305,7 @@
 			<point pos="-0.04 -8.50 -1.20" range="0.478125" height="1.195313" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="FagusSylvatica_3d" lootmax="2" maxinstances="150">
+		<cluster name="FagusSylvatica_3d" lootmax="2" maxinstances="5">
 			<de name="TrajectoryDeciduous" />
 			<container name="branch" lootmax="1">
 			<point pos="0.70 -9.40 1.85" range="1.08" height="2.00" flags="32" />
@@ -315,7 +315,7 @@
 			<point pos="-2.08 -9.40 -1.91" range="0.98" height="2.00" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="FagusSylvatica_stump" lootmax="2" maxinstances="150">
+		<cluster name="FagusSylvatica_stump" lootmax="2" maxinstances="5">
 			<de name="TrajectoryDeciduous" />
 			<container name="branch" lootmax="1">
 			<point pos="-1.17 -0.73 1.36" range="1.00" height="2.00" flags="32" />
@@ -324,7 +324,7 @@
 			<point pos="1.11 -0.73 1.13" range="0.63" height="2.00" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="FagusSylvatica_stumpB" lootmax="2" maxinstances="150">
+		<cluster name="FagusSylvatica_stumpB" lootmax="2" maxinstances="5">
 			<de name="TrajectoryDeciduous" />
 			<container name="branch" lootmax="1">
 			<point pos="-2.2 -0.66 0.15" range="1.00" height="2.00" flags="32" />
@@ -336,7 +336,7 @@
 			<point pos="0.42 -0.66 -2.97" range="0.80" height="2.00" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="FagusSylvatica_stumpC" lootmax="2" maxinstances="150">
+		<cluster name="FagusSylvatica_stumpC" lootmax="2" maxinstances="5">
 			<de name="TrajectoryDeciduous" />
 			<container name="branch" lootmax="1">
 			<point pos="-1.11 -0.05 0.07" range="0.61" height="1.78" flags="32" />
@@ -344,7 +344,7 @@
 			<point pos="1.25 -0.05 0.91" range="1.10" height="2.00" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="FagusSylvatica_fallen" lootmax="2" maxinstances="150">
+		<cluster name="FagusSylvatica_fallen" lootmax="2" maxinstances="5">
 			<de name="TrajectoryDeciduous" />
 			<container name="branch" lootmax="1">
 			<point pos="-1.30 -0.33 -1.25" range="1.00" height="2.00" flags="32" />
@@ -362,7 +362,7 @@
 			<point pos="-3.17 -0.33 6.47" range="1.00" height="2.00" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="FagusSylvatica_fallenB" lootmax="2" maxinstances="150">
+		<cluster name="FagusSylvatica_fallenB" lootmax="2" maxinstances="5">
 			<de name="TrajectoryDeciduous" />
 			<container name="branch" lootmax="1">
 			<point pos="0.96 -0.35 -2.03" range="1.10" height="2.00" flags="32" />
@@ -370,7 +370,7 @@
 			<point pos="1.16 -0.35 0.68" range="0.90" height="1.28" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="FagusSylvatica_fallenC" lootmax="2" maxinstances="150">
+		<cluster name="FagusSylvatica_fallenC" lootmax="2" maxinstances="5">
 			<de name="TrajectoryDeciduous" />
 			<container name="branch" lootmax="1">
 			<point pos="0.52 -0.30 -1.04" range="0.85" height="2.00" flags="32" />
@@ -379,7 +379,7 @@
 			<point pos="-0.70 -0.30 2.16" range="0.80" height="2.00" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="QuercusRobur_2d" lootmax="2" maxinstances="150">
+		<cluster name="QuercusRobur_2d" lootmax="2" maxinstances="5">
 			<de name="TrajectoryDeciduous" />
 			<container name="branch" lootmax="1">
 			<point pos="-0.02 -10.50 2.44" range="0.90" height="2.00" flags="32" />
@@ -389,7 +389,7 @@
 			</container>
 		</cluster>
 <!--
-		<cluster name="QuercusRobur_3d" lootmax="2" maxinstances="150">
+		<cluster name="QuercusRobur_3d" lootmax="2" maxinstances="5">
 			<de name="TrajectoryDeciduous" />
 			<container name="branch" lootmax="1">
 			<point pos="1.495153 -0.501526 0.119188" range="0.478125" height="1.195313" flags="32" />
@@ -398,7 +398,7 @@
 			</container>
 		</cluster>
 -->
-		<cluster name="QuercusRobur_fallenB" lootmax="2" maxinstances="150">
+		<cluster name="QuercusRobur_fallenB" lootmax="2" maxinstances="5">
 			<de name="TrajectoryDeciduous" />
 			<container name="branch" lootmax="1">
 			<point pos="0.23 -0.15 1.69" range="1.00" height="2.00" flags="32" />
@@ -408,7 +408,7 @@
 			<point pos="1.17 -0.15 -0.53" range="0.70" height="0.21" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="QuercusRobur_fallenC" lootmax="2" maxinstances="150">
+		<cluster name="QuercusRobur_fallenC" lootmax="2" maxinstances="5">
 			<de name="TrajectoryDeciduous" />
 			<container name="branch" lootmax="1">
 			<point pos="1.03 0.10 -0.85" range="0.47" height="1.68" flags="32" />
@@ -417,7 +417,7 @@
 			<point pos="0.55 0.10 1.12" range="0.70" height="2.00" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="QuercusRobur_stump" lootmax="2" maxinstances="150">
+		<cluster name="QuercusRobur_stump" lootmax="2" maxinstances="5">
 			<de name="TrajectoryDeciduous" />
 			<container name="branch" lootmax="1">
 			<point pos="1.43 -0.18 -0.34" range="0.92" height="2.00" flags="32" />
@@ -426,7 +426,7 @@
 			<point pos="0.56 -0.18 1.45" range="0.68" height="2.00" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="QuercusRobur_stumpB" lootmax="2" maxinstances="150">
+		<cluster name="QuercusRobur_stumpB" lootmax="2" maxinstances="5">
 			<de name="TrajectoryDeciduous" />
 			<container name="branch" lootmax="1">
 			<point pos="1.12 0.38 -0.64" range="0.66" height="2.00" flags="32" />
@@ -436,7 +436,7 @@
 			</container>
 		</cluster>
 <!--Mushrooms - HUMUS -->
-		<cluster name="Haybale" lootmax="2" maxinstances="150">
+		<cluster name="Haybale" lootmax="2" maxinstances="5">
 			<de name="TrajectoryHumus" />
 			<container name="branch" lootmax="1">
 			<point pos="-0.01 -0.57 -1.40" range="0.90" height="2.000000" flags="32" />
@@ -445,7 +445,7 @@
 			<point pos="1.70 -0.57 0.14" range="0.90" height="2.000000" flags="32" />
 			</container>
 		</cluster>
-		<cluster name="Strawstack" lootmax="2" maxinstances="150">
+		<cluster name="Strawstack" lootmax="2" maxinstances="5">
 			<de name="TrajectoryHumus" />
 			<container name="branch" lootmax="1">
 			<point pos="4.83 0.44 -2.29" range="1.09" height="2.00" flags="32" />
