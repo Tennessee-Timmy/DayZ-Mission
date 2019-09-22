@@ -103,10 +103,70 @@ class CustomMission: MissionServer
 		player.SetQuickBarEntityShortcut( itemEnt, 1, true );
 		itemEnt = player.GetInventory().CreateInInventory( "Mag_Glock_15Rnd" );
 		player.SetQuickBarEntityShortcut( itemEnt, 2, true );
+
+
+		// after giving the player the starting equipment, run the death check in 100 seconds
+		GetGame().GetCallQueue(CALL_CATEGORY_GAMEPLAY).CallLater(dayx_DeleteOnInstaDeath, 100000, false, player);
 	}
+
+	// deletes the player if he dies instantly(suicide to respawn or similar)
+	void dayx_DeleteOnInstaDeath (PlayerBase player) {
+		//Print("dayx - mission - dayx_DeleteOnInstaDeath");
+		
+		// if no player, leave
+		//Print("dayx - mission - dayx_DeleteOnInstaDeath.player:" + player);
+		if (!player) {
+			return;
+		};
+
+		// if player is still alive, leave (this means if player survived longer than 60 seconds, this script is bye bye)
+		//Print("dayx - mission - dayx_DeleteOnInstaDeath.IsAlive:" + player.IsAlive());
+		if (player.IsAlive()) {
+			return;
+		};
+
+		// player dead, check for other players nearby
+		
+		bool t_IsAPlayerNear = false;
+		PlayerBase i_Player;
+		float i_Dist;
+		vector t_PosPlayer = player.GetPosition();
+
+		// get players in the area and check them
+		ref array<Man> players = new array<Man>;
+		GetGame().GetPlayers( players );
+		
+		for ( int i = 0; i < players.Count(); i++ )
+		{
+			Class.CastTo(i_Player, players.Get(i));
+			if( i_Player && i_Player.IsAlive()) {
+				
+				// distance
+				i_Dist = vector.Distance( t_PosPlayer, i_Player.GetPosition() );
+				if (i_Dist < 30) {
+					t_IsAPlayerNear = true;
+					break;
+				};
+			};
+		};
+		delete players;
+		
+		// there is a player near the body, add the same function to run again in 30 seconds
+		if (t_IsAPlayerNear) {
+			GetGame().GetCallQueue(CALL_CATEGORY_GAMEPLAY).CallLater(dayx_DeleteOnInstaDeath, 30000, false, player);
+			//Print("dayx - mission - dayx_DeleteOnInstaDeath.Try again");
+			return;
+		};
+		//Print("dayx - mission - dayx_DeleteOnInstaDeath.delete!");
+
+		// at this point there were no players around the body
+		GetGame().ObjectDelete(player);
+	};
 };
 
 Mission CreateCustomMission(string path)
 {
 	return new CustomMission();
 }
+
+//
