@@ -37,7 +37,13 @@ void main()
 			}
 		}
 	}
+
+	GetGame().GetCallQueue( CALL_CATEGORY_GAMEPLAY ).CallLater( dayx_airDropCreate, 10000, false );
 }
+void dayx_airDropCreate () {
+	Print("dayx - Mission.airDropCreate");
+	GetAirdropBase().EOnPlayerDrop("-100 0 -100");
+};
 
 class CustomMission: MissionServer
 {
