@@ -109,7 +109,9 @@ class CustomMission: MissionServer
 		itemEnt = player.GetInventory().CreateInInventory( "Mag_IJ70_8Rnd" );
 		player.SetQuickBarEntityShortcut( itemEnt, 1, true );
 		itemEnt = player.GetInventory().CreateInInventory( "Ammo_380" );
-		itemEnt.SetQuantity(20);
+		if ( Class.CastTo(itemBs, itemEnt ) ) {
+			itemBs.SetQuantity(20);
+		};
 		player.SetQuickBarEntityShortcut( itemEnt, 2, true );
 
 
