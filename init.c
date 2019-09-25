@@ -42,7 +42,8 @@ void main()
 }
 void dayx_airDropCreate () {
 	Print("dayx - Mission.airDropCreate");
-	GetAirdropBase().EOnPlayerDrop("-100 0 -100");
+	//GetAirdropBase().EOnPlayerDrop("-100 0 -100");
+	GetAirdropBase().EOnRandomDrop();
 };
 
 class CustomMission: MissionServer
@@ -103,11 +104,12 @@ class CustomMission: MissionServer
 		//Magazine oMag = Magazine.Cast( player.GetInventory().CreateInInventory( "Mag_Glock_15Rnd" ) );
 		//player.GetDayZPlayerInventory().PostWeaponEvent( new WeaponEventAttachMagazine( player, oMag ) );
 		//bool isMagAttached = oWpn.AttachMagazine(oWpn.GetCurrentMuzzle(), oMag);
-		itemEnt = player.GetInventory().CreateInInventory( "Glock19" );
+		itemEnt = player.GetInventory().CreateInInventory( "MakarovIJ70" );
 		player.SetQuickBarEntityShortcut( itemEnt, 0, true );
-		itemEnt = player.GetInventory().CreateInInventory( "Mag_Glock_15Rnd" );
+		itemEnt = player.GetInventory().CreateInInventory( "Mag_IJ70_8Rnd" );
 		player.SetQuickBarEntityShortcut( itemEnt, 1, true );
-		itemEnt = player.GetInventory().CreateInInventory( "Mag_Glock_15Rnd" );
+		itemEnt = player.GetInventory().CreateInInventory( "Ammo_380" );
+		itemEnt.SetQuantity(20);
 		player.SetQuickBarEntityShortcut( itemEnt, 2, true );
 
 
@@ -163,7 +165,7 @@ class CustomMission: MissionServer
 			//Print("dayx - mission - dayx_DeleteOnInstaDeath.Try again");
 			return;
 		};
-		//Print("dayx - mission - dayx_DeleteOnInstaDeath.delete!");
+		Print("dayx - mission - dayx_DeleteOnInstaDeath.delete!");
 
 		// at this point there were no players around the body
 		GetGame().ObjectDelete(player);
