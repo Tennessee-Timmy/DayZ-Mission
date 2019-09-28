@@ -16,7 +16,7 @@ void main()
 
 	//DATE RESET AFTER ECONOMY INIT-------------------------
 	int year, month, day, hour, minute;
-	int reset_month = 9, reset_day = 20;
+	int reset_month = 6, reset_day = 26;
 	GetGame().GetWorld().GetDate(year, month, day, hour, minute);
 
 	if ((month == reset_month) && (day < reset_day))
@@ -38,7 +38,14 @@ void main()
 		}
 	}
 
+
+	// quick airdrop 100 seconds in
 	GetGame().GetCallQueue( CALL_CATEGORY_GAMEPLAY ).CallLater( dayx_airDropCreate, 10000, false );
+
+	// first air drop at 30 minutes
+	GetGame().GetCallQueue( CALL_CATEGORY_GAMEPLAY ).CallLater( dayx_airDropCreate, (100*60*30), false );
+
+	// after this one the drop will come 90minutes after game start, meaning 60 after this one ^^^^
 }
 void dayx_airDropCreate () {
 	Print("dayx - Mission.airDropCreate");
@@ -113,6 +120,13 @@ class CustomMission: MissionServer
 			itemBs.SetQuantity(20);
 		};
 		player.SetQuickBarEntityShortcut( itemEnt, 2, true );
+
+		// add flare
+		itemEnt = player.GetInventory().CreateInInventory("Roadflare");
+
+		// add flashlight
+		itemEnt = player.GetInventory().CreateInInventory("Flashlight");		
+    	itemEnt.GetInventory().CreateAttachment("Battery9V");
 
 
 		// after giving the player the starting equipment, run the death check in 100 seconds

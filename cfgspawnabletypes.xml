@@ -1917,40 +1917,11 @@
         </attachments>
 	</type>
 	<type name="Mp133Shotgun">
-		<attachments chance="100.0">
-            <item name="Ammo_12gaSlug" chance="100.00" />
-        </attachments>
-		<attachments chance="100.0">
-            <item name="Ammo_12gaSlug" chance="100.00" />
-        </attachments>
-		<attachments chance="100.0">
-            <item name="Ammo_12gaSlug" chance="100.00" />
-        </attachments>
-		<attachments chance="100.0">
-            <item name="Ammo_12gaSlug" chance="100.00" />
-        </attachments>
-		<attachments chance="100.0">
-            <item name="Ammo_12gaSlug" chance="100.00" />
-        </attachments>
+		<damage min="0.0" max="0.1" />
 	</type>
 	<type name="SKS">
 		<attachments chance="0.08">
             <item name="PUScopeOptic" chance="1.00" />
-        </attachments>
-		<attachments chance="100.0">
-            <item name="Ammo_762x39Tracer" chance="100.00" />
-        </attachments>
-		<attachments chance="100.0">
-            <item name="Ammo_762x39Tracer" chance="100.00" />
-        </attachments>
-		<attachments chance="100.0">
-            <item name="Ammo_762x39Tracer" chance="100.00" />
-        </attachments>
-		<attachments chance="100.0">
-            <item name="Ammo_762x39Tracer" chance="100.00" />
-        </attachments>
-		<attachments chance="100.0">
-            <item name="Ammo_762x39Tracer" chance="100.00" />
         </attachments>
 	</type>
     <type name="CZ527">
