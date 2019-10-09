@@ -2,6 +2,12 @@
 <types>
     <!-- Guns + Mags -->
     <!-- Tier 1 Vanilla/WeaponRedux/MoreWeapons -->
+	<!-- Makarov 
+	Gun:	MakarovIJ70
+	Mag:	Mag_IJ70_8Rnd
+	Ammo:	Ammo_380
+	Notes:	-nil-
+	-->
     <type name="MakarovIJ70">
         <lifetime>10800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
@@ -10,7 +16,13 @@
         <lifetime>10800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
-    <type name="UMP45">
+    <!-- UMP 
+	Gun:	UMP45
+	Mag:	Mag_UMP_25Rnd
+	Ammo:	Ammo_45ACP
+	Notes:	-nil-
+	-->
+	<type name="UMP45">
         <nominal>70</nominal>
         <lifetime>10800</lifetime>
         <restock>300</restock>
@@ -44,6 +56,12 @@
         
         <value name="Tier1"/>
     </type>
+    <!-- FN 45 
+	Gun:	FNX45
+	Mag:	Mag_FNX45_15Rnd
+	Ammo:	Ammo_45ACP
+	Notes:	-nil-
+	-->
     <type name="FNX45">
         <nominal>70</nominal>
         <lifetime>10800</lifetime>

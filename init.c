@@ -1,5 +1,83 @@
+//Spawn helper function
+void SpawnObject( string type, vector position, vector orientation )
+{
+    auto obj = GetGame().CreateObject( type, position );
+    obj.SetPosition( position );
+    obj.SetOrientation( obj.GetOrientation() ); //Collision fix
+}
+
+
 void main()
 {
+	//--- Trader safe zones NEAF and Devils Castle
+	//Your custom spawned objects
+	// NEAF
+	SpawnObject( "Land_Construction_House1", "11900.599609 144.044006 12451.799805", "9.000000 0.000000 0.000000" );
+	SpawnObject( "Land_Garage_Office", "11903.099609 143.509995 12483.900391", "-68.000000 0.000000 0.000000" );
+	SpawnObject( "Land_Factory_Small", "11883.299805 146.264008 12476.599609", "26.000000 0.000000 0.000000" );
+	SpawnObject( "Land_Pipe_Big_BuildL", "11895.500000 143.832993 12463.000000", "0.000000 0.000000 0.000000" );
+	SpawnObject( "Land_Smokestack_Big", "11866.299805 169.334000 12503.099609", "132.000000 0.000000 0.000000" );
+	SpawnObject( "Land_Smokestack_Big", "11890.299805 169.334000 12520.799805", "0.000000 0.000000 0.000000" );
+	SpawnObject( "Land_Tank_Big", "11882.500000 144.841995 12504.599609", "0.000000 0.000000 0.000000" );
+	SpawnObject( "Land_Tank_Big", "11874.200195 144.841995 12518.000000", "0.000000 0.000000 0.000000" );
+	SpawnObject( "Land_Tank_Medium_Stairs", "11902.099609 141.360001 12465.900391", "0.000000 0.000000 0.000000" );
+	SpawnObject( "Land_Airfield_Radar_Tall", "11952.599609 162.895996 12531.599609", "25.000002 0.000000 0.000000" );
+	SpawnObject( "Land_Wreck_S1023_Blue", "11904.599609 140.998993 12469.400391", "-67.000000 0.000000 0.000000" );
+	SpawnObject( "Land_Wreck_Volha_Grey", "11899.299805 140.737000 12475.599609", "0.000000 0.000000 0.000000" );
+	SpawnObject( "Land_Wreck_Uaz", "11903.200195 140.843002 12460.700195", "-33.000000 0.000000 0.000000" );
+	SpawnObject( "Land_Workshop2", "11895.700195 141.223007 12495.799805", "22.999998 0.000000 0.000000" );
+	SpawnObject( "Land_Power_Pole_Conc1_Amp", "11898.500000 143.514999 12491.900391", "0.000000 0.000000 0.000000" );
+	SpawnObject( "Land_Smokestack_Metal", "11885.500000 157.231003 12428.099609", "3.000000 0.000000 0.000000" );
+	SpawnObject( "Land_Tank_Medium_Stairs", "11894.700195 141.360001 12527.299805", "-119.000000 0.000000 0.000000" );
+	SpawnObject( "Land_Guardhouse", "11898.099609 141.070007 12503.599609", "112.999992 0.000000 0.000000" );
+	SpawnObject( "Land_Garage_Row_Big", "11909.400391 143.535004 12499.400391", "-67.000000 0.000000 0.000000" );
+	SpawnObject( "Land_Power_Pole_Conc1_Amp", "11892.700195 143.514999 12479.700195", "0.000000 0.000000 0.000000" );
+	SpawnObject( "Land_Container_1Aoh", "11919.700195 141.209000 12515.200195", "-20.000000 0.000000 0.000000" );
+	SpawnObject( "Land_Container_1Bo", "11913.500000 141.209000 12517.000000", "0.000000 0.000000 0.000000" );
+	SpawnObject( "Land_Container_1Mo", "11917.700195 141.209000 12521.500000", "98.000000 0.000000 0.000000" );
+	SpawnObject( "Land_Container_1Aoh", "11915.599609 143.709000 12520.200195", "44.000000 0.000000 0.000000" );
+	SpawnObject( "Land_Cementworks_Conveyorhall", "11926.700195 145.632996 12467.500000", "-157.000000 0.000000 0.000000" );
+
+	// Devils Castle
+	SpawnObject( "Land_Mil_Guardhouse2", "6989.180176 387.681000 11374.099609", "19.000000 -6.000000 2.000000" );
+	SpawnObject( "Land_FuelStation_Feed", "6989.500000 386.265015 11378.599609", "-71.000000 0.000000 8.000002" );
+	SpawnObject( "Land_Lunapark_Shooting_Gallery", "6931.118652 403.930328 11397.456055", "-28.999998 6.000001 0.000000" );
+	SpawnObject( "Land_Lunapark_Shooting_Gallery", "6919.138672 406.256378 11400.024414", "-97.999954 8.000001 -3.999998" );
+	SpawnObject( "Land_Misc_Well_Pump_Blue", "6925.885742 403.236969 11392.509766", "-2.000013 6.000001 5.000011" );
+	SpawnObject( "Land_Lamp_City1_amp", "6924.587402 408.041931 11402.326172", "-52.999996 0.000000 0.000000" );
+	SpawnObject( "Land_Wreck_V3S", "6910.765137 407.360413 11400.215820", "97.000038 -11.000000 14.000000" );
+	SpawnObject( "Land_Construction_House1", "6901.229980 404.777008 11364.500000", "57.999996 2.000000 6.000000" );
+	SpawnObject( "Land_Water_Station", "6979.189941 388.398010 11377.099609", "141.000000 0.000000 -2.000000" );
+
+
+	// SEVEROGRAD
+	SpawnObject( "Land_Mil_Tower_Small", "7854.493652 121.840355 12643.764648", "-10.000008 0.000000 0.000000" );
+	SpawnObject( "Land_Mil_Tower_Small", "7848.746582 121.800949 12670.065430", "170.000015 0.000000 0.000000" );
+	SpawnObject( "Land_Mil_Tent_Big1_1", "7857.791016 117.750420 12636.135742", "-179.000061 0.000000 0.000000" );
+	SpawnObject( "Land_Container_1Mo", "7869.153320 118.745995 12642.345703", "0.000000 0.000000 0.000000" );
+	SpawnObject( "Land_Wreck_Uaz", "7867.654785 118.363182 12654.776367", "95.000031 0.000000 0.000000" );
+	SpawnObject( "Land_Wreck_Volha_Police", "7859.338379 118.261528 12653.995117", "65.000000 -1.000000 -6.000000" );
+	SpawnObject( "Land_Mil_CamoNet_Roof_east", "7862.985352 119.362091 12647.788086", "0.000000 0.000000 0.000000" );
+	SpawnObject( "Land_Container_1Moh", "7858.386230 118.759247 12649.885742", "-77.000000 0.000000 0.000000" );
+	SpawnObject( "Land_Container_1Moh", "7673.842773 120.372780 12651.748047", "1.000000 -2.000000 0.000000" );
+	SpawnObject( "Land_Container_1Moh", "7679.859375 120.277405 12651.041992", "61.999992 -2.000000 0.000000" );
+	SpawnObject( "Land_Mil_Tent_Big1_1", "7687.508789 118.973915 12650.398438", "50.000004 -1.000000 1.000000" );
+	SpawnObject( "Land_Mil_Tower_Small", "7671.294922 123.722778 12642.871094", "67.000328 0.000000 0.000000" );
+	SpawnObject( "Land_Wreck_Uaz", "7670.504883 120.149452 12649.781250", "2.000000 -2.000000 3.999999" );
+	SpawnObject( "Land_Wreck_Uaz", "7682.254395 120.104881 12640.615234", "-45.999996 0.000000 0.000000" );
+	SpawnObject( "Land_Mil_CamoNet_Roof_east", "7680.793457 121.099968 12646.503906", "0.000000 0.000000 0.000000" );
+
+
+	// KRONA
+	SpawnObject( "Land_Mil_Tent_Big4", "1375.809082 293.139435 9308.558594", "-1.000000 1.000000 0.000000" );
+	SpawnObject( "Land_Mil_Tent_Big1_3", "1358.280273 291.600006 9314.229492", "-40.000004 0.000000 0.000000" );
+	SpawnObject( "Land_Mil_Tent_Big2_4", "1354.716309 293.639923 9305.744141", "3.000007 -4.000000 -2.000002" );
+
+
+	//--- end of custom objects
+
+
+
 	//INIT WEATHER BEFORE ECONOMY INIT------------------------
 	Weather weather = g_Game.GetWeather();
 
@@ -46,6 +124,10 @@ void main()
 	GetGame().GetCallQueue( CALL_CATEGORY_GAMEPLAY ).CallLater( dayx_airDropCreate, (100*60*30), false );
 
 	// after this one the drop will come 90minutes after game start, meaning 60 after this one ^^^^
+
+
+	//--- Add custom objects to the CE hive
+	GetCEApi().ExportProxyData( "7500 0 7500", 10000 );  //Center of map, radius of how far to go out and find buildings.
 }
 void dayx_airDropCreate () {
 	Print("dayx - Mission.airDropCreate");
