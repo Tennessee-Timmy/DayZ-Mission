@@ -10876,7 +10876,7 @@
 		</group>
 		<group name="Wreck_UH1Y" lootmax="20">
 				<usage name="RealHeliCrash" />
-				<container name="lootFloor" lootmax="20">
+				<container name="lootFloor" lootmax="6">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />

@@ -3,7 +3,8 @@ void SpawnObject( string type, vector position, vector orientation )
 {
     auto obj = GetGame().CreateObject( type, position );
     obj.SetPosition( position );
-    obj.SetOrientation( obj.GetOrientation() ); //Collision fix
+    obj.SetOrientation( orientation ); //Collision fix
+    //obj.SetOrientation( obj.GetOrientation() ); //Collision fix
 }
 
 
@@ -56,7 +57,6 @@ void main()
 	SpawnObject( "Land_Mil_Tent_Big1_1", "7857.791016 117.750420 12636.135742", "-179.000061 0.000000 0.000000" );
 	SpawnObject( "Land_Container_1Mo", "7869.153320 118.745995 12642.345703", "0.000000 0.000000 0.000000" );
 	SpawnObject( "Land_Wreck_Uaz", "7867.654785 118.363182 12654.776367", "95.000031 0.000000 0.000000" );
-	SpawnObject( "Land_Wreck_Volha_Police", "7859.338379 118.261528 12653.995117", "65.000000 -1.000000 -6.000000" );
 	SpawnObject( "Land_Mil_CamoNet_Roof_east", "7862.985352 119.362091 12647.788086", "0.000000 0.000000 0.000000" );
 	SpawnObject( "Land_Container_1Moh", "7858.386230 118.759247 12649.885742", "-77.000000 0.000000 0.000000" );
 	SpawnObject( "Land_Container_1Moh", "7673.842773 120.372780 12651.748047", "1.000000 -2.000000 0.000000" );

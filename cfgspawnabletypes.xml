@@ -770,11 +770,31 @@
         <cargo preset="ammoArmy" />
         <cargo preset="ammoArmy" />
 		<attachments preset="glassesArmy" />
-        <attachments preset="hatsArmy" />
+        <!-- <attachments preset="hatsArmy" /> -->
 		<attachments preset="bagsArmy" />
 		<attachments preset="vestsArmy" />
     </type>
     <type name="ZmbM_PatrolNormal_Summer">
+        <cargo preset="foodArmy" />
+        <cargo preset="ammoArmy" />
+        <cargo preset="ammoArmy" />
+        <cargo preset="ammoArmy" />
+		<attachments preset="glassesArmy" />
+        <attachments preset="hatsArmy" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+    </type>
+    <type name="ZmbM_usSoldier_normal_Desert">
+        <cargo preset="foodArmy" />
+        <cargo preset="ammoArmy" />
+        <cargo preset="ammoArmy" />
+        <cargo preset="ammoArmy" />
+		<attachments preset="glassesArmy" />
+        <attachments preset="hatsArmy" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+    </type>
+    <type name="ZmbM_usSoldier_normal_Woodland">
         <cargo preset="foodArmy" />
         <cargo preset="ammoArmy" />
         <cargo preset="ammoArmy" />
@@ -1925,9 +1945,10 @@
         </attachments>
 	</type>
     <type name="CZ527">
-		<attachments chance="0.10">
+		<attachments chance="0.70">
             <item name="HuntingOptic" chance="1.00" />
         </attachments>
+		<subcounter min="30" max="60" />
 		<attachments chance="100.0">
             <item name="Mag_CZ527_5rnd" chance="100.00" />
         </attachments>
@@ -1950,8 +1971,26 @@
             <item name="Mag_FAL_20Rnd" chance="100.00" />
         </attachments>
 	</type>
+	<type name="GP_FAL">
+        <attachments chance="0.30">
+            <item name="Fal_FoldingBttstck" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Fal_OeBttstck" chance="1.00" />
+        </attachments>
+        <attachments chance="0.70">
+            <item name="BUISOptic" chance="0.20" />
+            <item name="M68Optic" chance="0.20" />
+            <item name="M4_T3NRDSOptic" chance="0.20" />
+            <item name="ReflexOptic" chance="0.20" />
+            <item name="ACOGOptic" chance="0.20" />
+        </attachments>
+        <attachments chance="100.0">
+            <item name="Mag_FAL_20Rnd" chance="100.00" />
+        </attachments>
+	</type>
 	<type name="VSS">
-		<attachments chance="0.25">
+		<attachments chance="0.55">
             <item name="KashtanOptic" chance="0.40" />
             <item name="PSO1Optic" chance="0.40" />
         </attachments>
@@ -1963,7 +2002,7 @@
         </attachments>
 	</type>
 	<type name="Winchester70">
-		<attachments chance="0.10">
+		<attachments chance="0.70">
             <item name="HuntingOptic" chance="1.00" />
         </attachments>
 		<attachments chance="100.0">
@@ -2028,6 +2067,7 @@
         </attachments>
     </type>
     <type name="AK74">
+	
 		<attachments chance="0.10">
             <item name="AK_FoldingBttstck" chance="1.00" />
         </attachments>
@@ -2060,6 +2100,296 @@
             <item name="Mag_AK74_30Rnd" chance="100.0" />
         </attachments>
     </type>
+
+	<!-- Mod 1 Weapons -->
+    <type name="VityazSN">
+        <attachments chance="100.0">
+            <item name="Mag_Vityaz_30Rnd" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="M16">
+        <attachments chance="100.00">
+            <item name="M4_CarryHandleOptic" chance="100.00" />
+        </attachments>
+        <attachments chance="100.0">
+            <item name="Mag_STANAG_30Rnd" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="SCAR">
+        <attachments chance="100.0">
+            <item name="Mag_SCAR_20Rnd" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="Scar_Woodland">
+        <attachments chance="100.0">
+            <item name="UniversalLight" chance="100.0" />
+            <attachments chance="100.0">
+                <item name="Battery9V" chance="100.0" />
+            </attachments>
+        </attachments>
+        <attachments chance="100.0">
+            <item name="WE_HAMROptic" chance="100.0" />
+            <attachments chance="100.0">
+                <item name="Battery9V" chance="100.0" />
+            </attachments>
+        </attachments>
+        <attachments chance="100.0">
+            <item name="M4_Suppressor" chance="100.0" />
+        </attachments>
+        <attachments chance="100.0">
+            <item name="Mag_SCAR_20Rnd" chance="100.0" />
+        </attachments>
+        <attachments chance="100.0">
+            <item name="GhillieAtt_Woodland" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="MP7">
+        <attachments chance="100.0">
+            <item name="Mag_MP7_40Rnd" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="M14">
+        <attachments chance="100.0">
+            <item name="Mag_M14_10Rnd" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="M1A">
+        <attachments chance="100.0">
+            <item name="Mag_M14_10Rnd" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="M1A_Green">
+        <attachments chance="100.0">
+            <item name="WE_HAMROptic" chance="100.0" />
+        </attachments>
+        <attachments chance="100.0">
+            <item name="Mag_M14_20Rnd" chance="100.0" />
+        </attachments>
+    </type>
+
+	<!-- Mass Weapons -->
+	<type name="MassPPSH41">
+        <attachments chance="100.0">
+            <item name="Massppshdrum" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="MassSVT40">
+        <attachments chance="100.0">
+            <item name="MassSVTmag" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="Massmini14">
+        <attachments chance="100.0">
+            <item name="Mag_STANAG_30Rnd" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="MassB52">
+        <attachments chance="100.0">
+            <item name="Mag_AKM_30Rnd" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="MassPpskn">
+        <attachments chance="100.0">
+            <item name="Mag_AKM_30Rnd" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="MassScout556">
+        <attachments chance="0.70">
+            <item name="ACOGOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="100.0">
+            <item name="Scout556mag" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="MassM110">
+        <attachments chance="0.80">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="100.0">
+            <item name="Mass308STANAG" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="MassKivaari">
+        <attachments chance="0.80">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="100.0">
+            <item name="Mass308STANAG" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="MassAR15">
+        <attachments chance="100.0">
+            <item name="Mass9x39Palm" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="Massm300">
+        <attachments chance="0.80">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="100.0">
+            <item name="Massm300mag" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="Massm300_camo">
+        <attachments chance="100.0">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="100.0">
+            <item name="Massm300mag" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="AWMreal">
+        <attachments chance="0.70">
+            <item name="SniperOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="100.0">
+            <item name="Mag_AWMreal_5rnd" chance="100.0" />
+        </attachments>
+    </type>
+	
+	<!-- WE Weapons -->
+	<type name="WE_MP5SD">
+        <attachments chance="100.0">
+            <item name="Mag_Mp5_30Rnd" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="WE_MAT49">
+        <attachments chance="100.0">
+            <item name="Mag_MAT49_20Rnd" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="WE_DesertEagle">
+        <attachments chance="100.0">
+            <item name="Mag_DesertEagle_9rnd" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="WE_SSG69_Black">
+        <attachments chance="100.0">
+            <item name="Mag_SSG69_5Rnd" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="WE_RK92">
+        <attachments chance="100.0">
+            <item name="Mag_AKM_30Rnd" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="WE_RK92_Olive">
+        <attachments chance="100.0">
+            <item name="UniversalLight" chance="100.0" />
+            <attachments chance="100.0">
+                <item name="Battery9V" chance="100.0" />
+            </attachments>
+        </attachments>
+        <attachments chance="100.0">
+            <item name="WE_OKP7OpticEast" chance="100.0" />
+            <attachments chance="100.0">
+                <item name="Battery9V" chance="100.0" />
+            </attachments>
+        </attachments>
+        <attachments chance="100.0">
+            <item name="AK_Suppressor" chance="100.0" />
+        </attachments>
+        <attachments chance="100.0">
+            <item name="Mag_AKM_Drum75Rnd" chance="100.0" />
+        </attachments>
+        <attachments chance="100.0">
+            <item name="GhillieAtt_Woodland" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="WE_ACR">
+        <attachments chance="100.0">
+            <item name="Mag_STANAG_30Rnd" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="WE_AR15">
+        <attachments chance="100.0">
+            <item name="Mag_STANAG_30Rnd" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="WE_AR15_Tan">
+        <attachments chance="100.0">
+            <item name="UniversalLight" chance="100.0" />
+            <attachments chance="100.0">
+                <item name="Battery9V" chance="100.0" />
+            </attachments>
+        </attachments>
+        <attachments chance="100.0">
+            <item name="WE_HAMROptic" chance="100.0" />
+            <attachments chance="100.0">
+                <item name="Battery9V" chance="100.0" />
+            </attachments>
+        </attachments>
+        <attachments chance="100.0">
+            <item name="M4_Suppressor" chance="100.0" />
+        </attachments>
+        <attachments chance="100.0">
+            <item name="Mag_STANAG_30Rnd" chance="100.0" />
+        </attachments>
+        <attachments chance="100.0">
+            <item name="GhillieAtt_Woodland" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="WE_M24A3">
+        <attachments chance="0.70">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="100.0">
+            <item name="Mag_M24A3_5Rnd" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="WE_HoneyBadger_Black">
+        <attachments chance="100.0">
+            <item name="UniversalLight" chance="100.0" />
+            <attachments chance="100.0">
+                <item name="Battery9V" chance="100.0" />
+            </attachments>
+        </attachments>
+        <attachments chance="100.0">
+            <item name="M68Optic" chance="100.0" />
+            <attachments chance="100.0">
+                <item name="Battery9V" chance="100.0" />
+            </attachments>
+        </attachments>
+        <attachments chance="100.0">
+            <item name="Mag_Honeybadger_30Rnd" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="WE_HoneyBadger">
+        <attachments chance="100.0">
+            <item name="Mag_Honeybadger_30Rnd" chance="100.0" />
+        </attachments>
+    </type>
+		
+	<!-- Mung Weapons -->
+	<type name="Nagant1895_mung">
+        <attachments chance="100.0">
+            <item name="Mag_FNX45_15Rnd" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="Gewehr43_mung">
+        <attachments chance="100.0">
+            <item name="Mag_gewehr43_10Rnd_mung" chance="100.0" />
+        </attachments>
+    </type>
+	<type name="csmcmillan_mung">
+        <attachments chance="0.70">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="100.0">
+            <item name="mcmillan_buttstock" chance="100.0" />
+        </attachments>
+        <attachments chance="100.0">
+            <item name="Mag_cs5_10Rnd_mung" chance="100.0" />
+        </attachments>
+    </type>
+			
+	<!-- Mod 1 Weapons -->
+	
+	<!-- Mod 1 Weapons -->
+	
+	<!-- Mod 1 Weapons -->
+	
+
 <!-- FUTURE
     <type name="AKS74U">
 		<attachments chance="0.10">
@@ -2094,7 +2424,7 @@
         </attachments>
     </type>
     <type name="B95">
-		<attachments chance="0.30">
+		<attachments chance="0.60">
             <item name="HuntingOptic" chance="1.00" />
         </attachments>
 	</type>
