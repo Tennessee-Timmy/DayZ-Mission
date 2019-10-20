@@ -121,7 +121,7 @@ void main()
 	GetGame().GetCallQueue( CALL_CATEGORY_GAMEPLAY ).CallLater( dayx_airDropCreate, 10000, false );
 
 	// first air drop at 30 minutes
-	GetGame().GetCallQueue( CALL_CATEGORY_GAMEPLAY ).CallLater( dayx_airDropCreate, (100*60*30), false );
+	GetGame().GetCallQueue( CALL_CATEGORY_GAMEPLAY ).CallLater( dayx_airDropCreate, (1000*60*30), false );
 
 	// after this one the drop will come 90minutes after game start, meaning 60 after this one ^^^^
 
