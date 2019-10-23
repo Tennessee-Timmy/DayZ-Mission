@@ -3356,6 +3356,58 @@
 			<item name="HatchbackTrunk" chance="100.0" />
 		</attachments>
 	</type>
+	<type name="CrSk_BMW_525i_E34_Beater">
+		<attachments chance="100.00">
+			<item name="BMWE34_koleso_style2" chance="100.0" />
+        </attachments>
+		<attachments chance="100.00">
+			<item name="BMWE34_koleso_style2" chance="100.0" />
+        </attachments>
+		<attachments chance="100.00">
+			<item name="BMWE34_koleso_style2" chance="100.0" />
+        </attachments>
+		<attachments chance="100.00">
+			<item name="BMWE34_koleso_style2" chance="100.0" />
+        </attachments>
+		<attachments chance="100.00">
+			<item name="BMWE34_koleso_style2" chance="100.0" />
+        </attachments>
+		<attachments chance="100.00">
+			<item name="CarRadiator" chance="100.0" />
+        </attachments>
+		<attachments chance="100.00">
+			<item name="CarBattery" chance="100.0" />
+        </attachments>
+		<attachments chance="100.00">
+			<item name="SparkPlug" chance="100.0" />
+        </attachments>
+		<attachments chance="100.00">
+			<item name="HeadlightH7" chance="100.0" />
+        </attachments>
+		<attachments chance="100.00">
+			<item name="HeadlightH7" chance="100.0" />
+        </attachments>
+		<attachments chance="100.00">
+			<item name="BMWE34_dver_1_1_beater" chance="100.0" />
+        </attachments>
+		<attachments chance="100.00">
+			<item name="BMWE34_dver_2_1_beater" chance="100.0" />
+        </attachments>
+		<attachments chance="100.00">
+			<item name="BMWE34_dver_1_2_beater" chance="100.0" />
+        </attachments>
+		<attachments chance="100.00">
+			<item name="BMWE34_dver_2_2_beater" chance="100.0" />
+		</attachments>
+		<attachments chance="100.00">
+			<item name="BMWE34_kapot_beater" chance="100.0" />
+		</attachments>
+		<attachments chance="100.00">
+			<item name="BMWE34_bagazhnik_beater" chance="100.0" />
+		</attachments>
+	</type>
+	
+
 	
 	<type name="CivilianSedan">
 		<attachments chance="100.00">
