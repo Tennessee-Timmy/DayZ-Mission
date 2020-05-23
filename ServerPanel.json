@@ -1,0 +1,50 @@
+{
+    "SERVERNAME": "DayX / Accelerated Gameplay / Overhauled Experience / Hardcore",
+    "BUTTON1NAME": "DONATE",
+    "BUTTON1LINK": "https://www.paypal.me/GlutenFreeVapes",
+    "BUTTON2NAME": "DISCORD",
+    "BUTTON2LINK": "https://discord.gg/wJSypfQ",
+    "BUTTON3NAME": "LOOT MAP",
+    "BUTTON3LINK": "https://i.imgur.com/tt9ZlVt.jpg",
+    "BUTTONTAB0NAME": "RULES",
+    "BUTTONTAB1NAME": "DAYX",
+    "BUTTONTAB2NAME": "META",
+    "BUTTONTAB3NAME": "",
+    "DISPLAYPLAYERINFO": 1,
+    "DISPLAYPLAYERTAB": 1,
+    "sServerTab0": [
+        "Be nice and have fun while not stopping other players from having fun",
+        "It's Gamer Tyme!",
+        ":^)",
+        "-----------",
+        "No Glitching/Hacking/Using bugs.",
+        "No Combat Logging.",
+        "No Stream Sniping",
+        "No Impersonating Staff",
+        "No Spamming VOIP or Sidechat",
+        "No building near military loot spawns",
+        "No abuse, harrassing, going over the line",
+        "No political discussions/opinions",
+        "-----------",
+        "Breaking any of these rules may result in a warning, kick, character/base wipe or ban."
+    ],
+    "sServerTab1": [
+        "DAYX is a custom gameplay modification",
+        "Many Aspects of gameplay have changed.",
+        "To learn more about all the changes join the discord and check out the info channel",
+        "",
+        "",
+        "BETA:",
+        "   - The server/mod are currently in beta stage, changes may occur"
+    ],
+    "sServerTab2": [
+        "* Smaller play-area.",
+        "* Players spawn closer to the North-West.",
+        "   - All areas South and East of player spawns have NO LOOT!",
+        "* Severogad is a hot-zone, meaning military loot may spawn there",
+        "For more info, check out the meta channel on discord"
+    ],
+    "sServerTab3": [
+        ""
+    ]
+}

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <prototype>
 		<defaults>
-				<default name="group" lootmax="16" />
-				<default name="container" lootmax="14" />
+				<default name="group" lootmax="40" />
+				<default name="container" lootmax="20" />
 				<default name="keepInvalidPoints" enabled="yes" />
 				<default name="clusterMatrix" de="TrajectoryApple" width="12" height="12"/>
 				<default name="clusterMatrix" de="TrajectoryStones" width="12" height="12"/>
@@ -1941,9 +1941,9 @@
 						<point pos="-4.575448 -1.200684 -7.917014" range="0.735325" height="1.821043" />
 				</container>
 		</group>
-		<group name="Land_Tenement_Small" lootmax="60">
+		<group name="Land_Tenement_Small" lootmax="82">
 				<usage name="RealTown" />
-				<container name="lootFloor" lootmax="16">
+				<container name="lootFloor" lootmax="24">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -1982,7 +1982,7 @@
 						<point pos="-3.52256 -7.51953 -8.25" range="1.699951" height="1.290673" />
 						<point pos="3.68438 -7.51953 -8.522" range="1.699951" height="1.290673" />
 				</container>
-				<container name="lootshelves" lootmax="20">
+				<container name="lootshelves" lootmax="30">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -2019,7 +2019,7 @@
 						<point pos="4.34131 -6.5274 -3.43879" range="0.258545" height="0.369195" />
 						<point pos="6.34185 -6.52955 -2.24034" range="0.258545" height="0.369195" />
 				</container>
-				<container name="lootweapons" lootmax="16">
+				<container name="lootweapons" lootmax="36">
 						<category name="weapons" />
 						<category name="explosives" />
 						<point pos="-3.79705 9.67022 5.1293" range="1.035325" height="1.121043" />

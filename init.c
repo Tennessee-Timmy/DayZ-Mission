@@ -132,7 +132,7 @@ void main()
 void dayx_airDropCreate () {
 	Print("dayx - Mission.airDropCreate");
 	//GetAirdropBase().EOnPlayerDrop("-100 0 -100");
-	GetAirdropBase().EOnRandomDrop();
+	//GetAirdropBase().EOnCallAirdrop(false, vector.Zero);
 };
 
 class CustomMission: MissionServer
