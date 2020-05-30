@@ -266,7 +266,7 @@
 				<item name="Pickaxe" chance="0.8" />
 				<item name="Shovel" chance="0.8" />
 		</attachments>
-		<attachments chance="0.15" name="bagsVillage">
+		<attachments chance="0.03" name="bagsVillage">
 				<item name="MountainBag_Red" chance="0.25" />
 				<item name="MountainBag_Blue" chance="0.25" />
 				<item name="MountainBag_Orange" chance="0.25" />
@@ -408,13 +408,17 @@
 			<item name="PlateCarrierVest" chance="0.05" />
 			<item name="SmershVest" chance="0.05" />
 		</attachments>
-		<attachments chance="0.15" name="bagsArmy">
-			<item name="AssaultBag_Green" chance="0.10" />
-			<item name="AssaultBag_Ttsko" chance="0.10" />
-			<item name="AssaultBag_Black" chance="0.10" />
-			<item name="AliceBag_Camo" chance="0.10" />
-			<item name="AliceBag_Green" chance="0.10" />
-			<item name="AliceBag_Black" chance="0.10" />
+		<attachments chance="0.05" name="bagsArmy">
+			<item name="MVS_Compact_1_OD" chance="0.10" />
+			<item name="MVS_Compact_1_Tan" chance="0.10" />
+			<item name="MVS_Compact_1_Black" chance="0.10" />
+			<item name="MVS_Compact_1_ERDL" chance="0.10" />
+			<item name="AssaultBag_Green" chance="0.05" />
+			<item name="AssaultBag_Ttsko" chance="0.05" />
+			<item name="AssaultBag_Black" chance="0.05" />
+			<item name="AliceBag_Camo" chance="0.01" />
+			<item name="AliceBag_Green" chance="0.01" />
+			<item name="AliceBag_Black" chance="0.01" />
 			<item name="TortillaBag" chance="0.05" />
 			<item name="SmershBag" chance="0.05" />
 			<item name="CoyoteBag_Brown" chance="0.01" />
